@@ -1,17 +1,16 @@
 <template>
     <div>
-        <h1>
+        <div class="text-h4">
             {{ song.title }}
-            <small>
-                {{ song.artist }}
-            </small>
-        </h1>
+            <br>
+            <small v-html="song.artist"
+                   class="artist"></small>
+        </div>
 
-        {{ song.lyrics }}
+        <div class="lyrics" v-html="song.lyrics"></div>
 
-        <div>
-            {{ song.album || '' }}
-            {{ song.year || '' }}
+        <div class="footer">
+            {{ song.album || '' }} | {{ song.year || '' }}
         </div>
     </div>
 </template>
@@ -19,6 +18,31 @@
 <script>
 export default {
     name: 'Song',
-    props: ['song'],
+    props: {
+        song: {
+            default: {
+                title: '',
+                artist: '',
+                lyrics: '',
+                album: '',
+                year: '',
+            },
+        },
+    },
 };
 </script>
+
+<style lang="sass">
+.artist
+    font-size: .8rem
+    color: #777
+
+.lyrics
+
+    i
+        font-size: .7rem
+
+.footer
+    font-size: .7rem
+    color: #aaa
+</style>

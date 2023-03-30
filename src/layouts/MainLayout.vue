@@ -1,29 +1,32 @@
 <template>
     <q-layout view="lHh Lpr lFf">
-        <q-header elevated>
-            <q-toolbar>
-                <q-toolbar-title>
-                    <Logo class="logo" />
-                </q-toolbar-title>
-            </q-toolbar>
-        </q-header>
+        <Toolbar @open-drawer="drawerOpen = true" />
 
-        <q-page-container>
-            <router-view />
+        <Drawer @close-drawer="drawerOpen = false"
+                :state="drawerOpen" />
+
+        <q-page-container class="q-pa-sm q-mt-md">
+            <router-view v-slot="{ Component }">
+                <Fade>
+                    <component :is="Component" />
+                </Fade>
+            </router-view>
         </q-page-container>
     </q-layout>
 </template>
 
 <script>
-import Logo from '../components/Logo.vue';
+import Fade from '../components/transitions/Fade.vue';
+import Toolbar from 'components/Toolbar.vue';
+import Drawer from 'components/Drawer.vue';
 
 export default {
     name: 'MainLayout',
-    components: { Logo },
+    components: { Toolbar, Drawer, Fade },
+    data() {
+        return {
+            drawerOpen: false,
+        };
+    },
 };
 </script>
-
-<style lang="sass">
-.logo
-    width: 100px
-</style>

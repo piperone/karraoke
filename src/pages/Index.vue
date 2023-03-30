@@ -1,13 +1,23 @@
 <template>
-    <q-list>
+    <q-list separator>
         <q-item v-for="song in songs"
-                :key="`song-${song.id}`">
+                :to="`song/${song.id}`"
+                :key="`song-${song.id}`"
+                class="q-py-md"
+                clickable
+                v-ripple>
             <q-item-section avatar>
-                <q-img :src="`../assets/images/covers/${song.art}`" />
+                <q-img :src="`covers/${song.art}`" />
             </q-item-section>
 
             <q-item-section>
-                <template v-html="song.title"></template>
+                <q-item-label>
+                    <span v-html="song.title"></span>
+                </q-item-label>
+
+                <q-item-label caption>
+                    <span v-html="song.artist"></span>
+                </q-item-label>
             </q-item-section>
         </q-item>
     </q-list>
