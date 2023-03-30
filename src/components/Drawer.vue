@@ -12,9 +12,10 @@
                 </div>
                 <q-btn @click="$emit('close-drawer')"
                        flat
+                       square
                        class="absolute-right"
                        color="negative"
-                       icon="close"></q-btn>
+                       icon="close" />
             </div>
 
             <q-list separator>
