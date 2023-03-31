@@ -1,7 +1,7 @@
-@use 'quasar.variables' as vars
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
 
 body.body--dark
-    font-family: Raleway
+    font-family: 'Raleway', sans-serif
     font-weight: 600
     font-size: 15px
     background: #412840
@@ -20,16 +20,3 @@ body.body--dark
 .single-line-height
     line-height: 1 !important
 
-//------------------------- Font Family Declarations -------------------------//
-
-// Regular
-@include vars.font(300, 'Raleway-Light')
-@include vars.font(400, 'Raleway-Regular')
-@include vars.font(600, 'Raleway-Semibold')
-@include vars.font(700, 'Raleway-Bold')
-
-// Italic
-@include vars.font(300, 'Raleway-LightItalic', italic)
-@include vars.font(400, 'Raleway-RegularItalic', italic)
-@include vars.font(600, 'Raleway-SemiboldItalic', italic)
-@include vars.font(700, 'Raleway-BoldItalic', italic)
