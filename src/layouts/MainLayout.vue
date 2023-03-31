@@ -5,11 +5,15 @@
         <Drawer @close-drawer="drawerOpen = false"
                 :state="drawerOpen" />
 
-        <q-page-container class="q-pa-sm q-mt-md">
+        <q-page-container>
             <router-view v-slot="{ Component }">
-                <Fade>
-                    <component :is="Component" />
-                </Fade>
+                <div class="row justify-center">
+                    <div class="col col-sm-auto">
+                        <Fade>
+                            <component :is="Component" />
+                        </Fade>
+                    </div>
+                </div>
             </router-view>
         </q-page-container>
     </q-layout>

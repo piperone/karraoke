@@ -1,5 +1,5 @@
 <template>
-    <q-list separator>
+    <q-list separator style="min-width:300px">
         <q-item v-for="song in songs"
                 :to="`song/${song.id}`"
                 :key="`song-${song.id}`"

@@ -79,7 +79,7 @@
         </div>
 
         <small class="absolute-bottom q-pa-md text-grey-5 text-center">
-            av <a href="mailto:fredrkr@me.com" class="text-grey-5">Fredrik Krokstad</a>
+            <a href="mailto:fredrkr@me.com" class="text-grey-5">av Fredrik</a>
         </small>
     </q-drawer>
 </template>
