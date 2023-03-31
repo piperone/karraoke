@@ -1,5 +1,14 @@
-body
+@use 'quasar.variables' as vars
+
+body.body--dark
+    font-family: Raleway
+    font-weight: 600
     font-size: 15px
+    background: #412840
+    color: #f2ecce
+
+    .q-layout__shadow
+        display: none
 
 .text-sm
     font-size: .8rem
@@ -7,3 +16,20 @@ body
 .no-underline
     color: #fff
     text-decoration: none
+
+.single-line-height
+    line-height: 1 !important
+
+//------------------------- Font Family Declarations -------------------------//
+
+// Regular
+@include vars.font(300, 'Raleway-Light')
+@include vars.font(400, 'Raleway-Regular')
+@include vars.font(600, 'Raleway-Semibold')
+@include vars.font(700, 'Raleway-Bold')
+
+// Italic
+@include vars.font(300, 'Raleway-LightItalic', italic)
+@include vars.font(400, 'Raleway-RegularItalic', italic)
+@include vars.font(600, 'Raleway-SemiboldItalic', italic)
+@include vars.font(700, 'Raleway-BoldItalic', italic)

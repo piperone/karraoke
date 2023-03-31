@@ -11,11 +11,11 @@
             </q-item-section>
 
             <q-item-section>
-                <q-item-label>
+                <q-item-label class="text-amber-1">
                     <span v-html="song.title"></span>
                 </q-item-label>
 
-                <q-item-label caption>
+                <q-item-label caption class="text-amber-2">
                     <span v-html="song.artist"></span>
                 </q-item-label>
             </q-item-section>

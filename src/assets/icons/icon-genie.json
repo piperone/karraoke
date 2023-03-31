@@ -1,0 +1,16 @@
+{
+    "params": {
+        "skipTrim": false,
+        "icon": "src/assets/icons/symbol.png",
+        "quality": "10",
+        "themeColor": "f2ecce",
+        "padding": [
+            5,
+            5
+        ],
+        "include": [
+            "pwa"
+        ],
+        "splashscreenColor": "412840"
+    }
+}

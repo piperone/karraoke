@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div style="font-size:16px">
         <div class="row q-col-gutter-sm q-col-gutter-y-lg">
             <div class="col-6">
                 <q-img src="boys/ola.jpeg" />

@@ -1,20 +1,25 @@
 <template>
     <q-drawer v-model="drawerState"
+              style="background:#2C1E2B"
               overlay
               bordered
               side="right"
               :width="300"
               :breakpoint="800">
         <div class="column fit">
-            <div class="relative-position">
-                <div class="text-h5 q-pa-md text-center">
-                    KARRAOKE
+            <div class="relative-position row justify-center items-center q-py-md"
+                 style="line-height: 1">
+                <div class="q-py-md">
+                    <img src="logo/logo.png"
+                         alt="Logo"
+                         style="height:25px">
                 </div>
+
                 <q-btn @click="$emit('close-drawer')"
                        flat
                        square
                        class="absolute-right"
-                       color="negative"
+                       color="amber-2"
                        icon="close" />
             </div>
 
@@ -22,8 +27,7 @@
                 <q-separator />
 
                 <q-item clickable
-                        :class="$route.path === '/' || $route.path.includes('song') ? 'text-primary' : 'text-black'"
-                        class="q-py-lg"
+                        class="q-py-lg text-amber-2"
                         to="/">
                     <q-item-section avatar>
                         <q-icon name="library_music" />
@@ -40,8 +44,7 @@
                 </q-item>
 
                 <q-item clickable
-                        :class="$route.path === '/gutta' ? 'text-primary' : 'text-black'"
-                        class="q-py-lg"
+                        class="q-py-lg text-amber-2"
                         to="/gutta">
                     <q-item-section avatar>
                         <q-icon name="groups" />
@@ -58,7 +61,7 @@
                 </q-item>
 
                 <q-item clickable
-                        class="text-black q-py-lg"
+                        class="q-py-lg text-amber-2"
                         href="mailto:ola@reelnote.no?subject=Karraoke booking">
                     <q-item-section avatar>
                         <q-icon name="event" />
@@ -79,7 +82,8 @@
         </div>
 
         <small class="absolute-bottom q-pa-md text-grey-5 text-center">
-            <a href="mailto:fredrkr@me.com" class="text-grey-5">av Fredrik</a>
+            <a href="mailto:fredrkr@me.com"
+               class="text-amber-2">av Fredrik</a>
         </small>
     </q-drawer>
 </template>

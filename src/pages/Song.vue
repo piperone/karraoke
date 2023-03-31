@@ -1,5 +1,5 @@
 <template>
-    <div class="q-px-sm q-pt-md">
+    <div class="q-px-sm q-py-md">
         <div class="row">
             <div class="text-h4">
                 {{ song.title }}
