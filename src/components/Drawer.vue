@@ -55,14 +55,14 @@
                             Gutta
                         </q-item-label>
                         <q-item-label caption>
-                            Karraoke-bandet
+                            Karraokes-bandet
                         </q-item-label>
                     </q-item-section>
                 </q-item>
 
                 <q-item clickable
                         class="q-py-lg text-amber-2"
-                        href="mailto:ola@reelnote.no?subject=Karraoke booking">
+                        href="mailto:ola@reelnote.no?subject=Karraokes booking">
                     <q-item-section avatar>
                         <q-icon name="event" />
                     </q-item-section>

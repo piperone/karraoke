@@ -1,8 +1,8 @@
 {
-  "name": "karraoke",
+  "name": "karraokes",
   "version": "0.0.1",
   "description": "Sing your heart out!",
-  "productName": "Karraoke",
+  "productName": "Karraokes",
   "author": "Fredrik Krokstad <fredrkr@me.com>",
   "private": true,
   "scripts": {
