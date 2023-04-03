@@ -820,4 +820,862 @@ export default [
         </p>
         `,
     },
+    {
+        id: 11,
+        title: 'I Want It That Way',
+        artist: 'Backstreet Boys',
+        album: 'Millennium',
+        year: 1999,
+        art: 'backstreet-boys-i-want-it-that-way.jpg',
+        lyrics: `
+            <p>
+                <i>Intro</i><br>
+                Yeah-eh-eh
+            </p>
+            <p>
+                <i>Vers 1</i><br>
+                You are my fire<br>
+                The one desire<br>
+                Believe when I say<br>
+                I want it that way<br>
+                But we are two worlds apart<br>
+                Can't reach to your heart<br>
+                When you say<br>
+                That I want it that way
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Tell me why<br>
+                Ain't nothin' but a heartache<br>
+                Tell me why<br>
+                Ain't nothing but a mistake<br>
+                Tell me why<br>
+                I never wanna hear you say<br>
+                I want it that way
+            </p>
+            <p>
+                <i>Vers 2</i><br>
+                Am I your fire?<br>
+                Your one desire<br>
+                Yes, I know it's too late<br>
+                But I want it that way
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Tell me why<br>
+                Ain't nothin' but a heartache<br>
+                Tell me why<br>
+                Ain't nothin' but a mistake<br>
+                Tell me why<br>
+                I never wanna hear you say<br>
+                I want it that way
+            </p>
+            <p>
+                <i>Bro</i><br>
+                Now I can see that we're fallin' apart<br>
+                From the way that it used to be, yeah<br>
+                No matter the distance<br>
+                I want you to know<br>
+                That deep down inside of me<br>
+                You are my fire<br>
+                The one desire<br>
+                You are (You are, you are, you are)
+            </p>
+            <p>
+                <i>Interlude</i><br>
+                Don't wanna hear you say<br>
+                Ain't nothin' but a heartache<br>
+                Ain't nothin' but a mistake<br>
+                (Don't wanna hear you say)<br>
+                I never wanna hear you say (Oh, yeah)<br>
+                I want it that way
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Tell me why<br>
+                Ain't nothin' but a heartache<br>
+                Tell me why<br>
+                Ain't nothin' but a mistake<br>
+                Tell me why<br>
+                I never wanna hear you say (Don't wanna hear you say)<br>
+                I want it that way<br>
+                Tell me why<br>
+                Ain't nothin' but a heartache<br>
+                Ain't nothin' but a mistake<br>
+                Tell me why<br>
+                I never wanna hear you say (Never wanna hear you say, yeah)<br>
+                I want it that way
+            </p>
+            <p>
+                <i>Outro</i><br>
+                'Cause I want it that way
+            </p>
+        `,
+    },
+    {
+        id: 12,
+        title: 'Don\'t Stop Believin\'',
+        artist: 'Journey',
+        album: 'Journey: Greatest Hits',
+        year: 1988,
+        art: 'journey-dont-stop-believin.jpg',
+        lyrics: `
+            <p>
+                <i>Vers 1</i><br>
+                Just a small-town girl, livin' in a lonely world<br>
+                She took the midnight train goin' anywhere<br>
+                Just a city boy, born and raised in South Detroit<br>
+                He took the midnight train goin' anywhere
+            </p>
+            <p>
+                <i>Vers 2</i><br>
+                A singer in a smoky room<br>
+                The smell of wine and cheap perfume<br>
+                For a smile, they can share the night<br>
+                It goes on and on and on and on
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                Strangers waitin'<br>
+                Up and down the boulevard<br>
+                Their shadows searchin' in the night<br>
+                Streetlights, people<br>
+                Livin' just to find emotion<br>
+                Hidin' somewhere in the night
+            </p>
+            <p>
+                <i>Vers 3</i><br>
+                Workin' hard to get my fill<br>
+                Everybody wants a thrill<br>
+                Payin' anything to roll the dice<br>
+                Just one more time
+            </p>
+            <p>
+                <i>Vers 4</i><br>
+                Some will win, some will lose<br>
+                Some are born to sing the blues<br>
+                Oh, the movie never ends<br>
+                It goes on and on and on and on
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                Strangers waitin'<br>
+                Up and down the boulevard<br>
+                Their shadows searchin' in the night<br>
+                Streetlights, people<br>
+                Livin' just to find emotion<br>
+                Hidin' somewhere in the night
+            </p>
+            <p>
+                <i>Guitar Solo</i>
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Don't stop believin'<br>
+                Hold on to that feelin'<br>
+                Streetlights, people<br>
+                Don't stop believin'<br>
+                Hold on<br>
+                Streetlights, people<br>
+                Don't stop believin'<br>
+                Hold on to that feelin'<br>
+                Streetlights, people
+            </p>
+        `,
+    },
+    {
+        id: 13,
+        title: 'It\'s a Heartache',
+        artist: 'Bonnie Tyler',
+        album: 'It\'s a Heartache',
+        year: 1976,
+        art: 'bonnie-tyler-its-a-heartache.jpg',
+        lyrics: `
+            <p>
+                <i>Vers 1</i><br>
+                It's a heartache<br>
+                Nothing but a heartache<br>
+                Hits you when it's too late<br>
+                Hits you when you're down
+            </p>
+            <p>
+                <i>Vers 2</i><br>
+                It's a fool's game<br>
+                Nothing but a fool's game<br>
+                Standing in the cold rain<br>
+                Feeling like a clown
+            </p>
+            <p>
+                <i>Vers 3</i><br>
+                It's a heartache<br>
+                Nothing but a heartache<br>
+                Love him till your arms break<br>
+                Then he lets you down
+            </p>
+            <p>
+                It ain't right with love to share<br>
+                When you find he doesn't care for you<br>
+                It ain't wise to need someone<br>
+                As much as I depended on you
+            </p>
+            <p>
+                <i>Vers 4</i><br>
+                It's a heartache<br>
+                Nothing but a heartache<br>
+                Hits you when it's too late<br>
+                Hits you when you're down
+            </p>
+            <p>
+                <i>Vers 5</i><br>
+                It's a fool's game<br>
+                Nothing but a fool's game<br>
+                Standing in the cold rain<br>
+                Feeling like a clown
+            </p>
+            <p>
+                It ain't right with love to share<br>
+                When you find he doesn't care for you<br>
+                It ain't wise to need someone<br>
+                As much as I depended on you
+            </p>
+            <p>
+                Oh, it's a heartache<br>
+                Nothing but a heartache<br>
+                Love him till your arms break<br>
+                Then he lets you down
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                It's a fool's game<br>
+                Standing in the cold rain
+            </p>
+            <p>
+                It's a heartache<br>
+                Love him till your arms break<br>
+                Then he lets you down</p>
+            <p>
+                It's a fools game<br>
+                Standing in the cold rain
+            </p>
+        `,
+    },
+    {
+        id: 14,
+        title: 'You\'re Still the One',
+        artist: 'Shania Twain',
+        album: 'Come On Over',
+        year: 1997,
+        art: 'shania-twain-youre-still-the-one.jpg',
+        lyrics: `
+            <p>
+                <i>Intro</i><br/>
+                When I first saw you, I saw love<br/>
+                And the first time you touched me, I felt love<br/>
+                And after all this time<br/>
+                You're still the one I love<br/>
+                Mmm, yeah
+            </p>
+            <p>
+                <i>Vers 1</i><br/>
+                Looks like we made it<br/>
+                Look how far we've come, my baby<br/>
+                We mighta took the long way<br/>
+                We knew we'd get there someday
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br/>
+                They said, "I bet they'll never make it"<br/>
+                But just look at us holdin' on<br/>
+                We're still together, still goin' strong
+            </p>
+            <p>
+                <i>Refreng</i><br/>
+                (You're still the one) You're still the one I run to<br/>
+                The one that I belong to<br/>
+                You're still the one I want for life<br/>
+                (You're still the one) You're still the one that I love<br/>
+                The only one I dream of<br/>
+                You're still the one I kiss goodnight
+            </p>
+            <p>
+                <i>Vers 2</i><br/>
+                Ain't nothin' better<br/>
+                We beat the odds together<br/>
+                I'm glad we didn't listen<br/>
+                Look at what we would be missin'
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br/>
+                They said, "I bet they'll never make it"<br/>
+                But just look at us holdin' on<br/>
+                We're still together, still goin' strong
+            </p>
+            <p>
+                <i>Refreng</i><br/>
+                (You're still the one) You're still the one I run to<br/>
+                The one that I belong to<br/>
+                You're still the one I want for life<br/>
+                (You're still the one) You're still the one that I love<br/>
+                The only one I dream of<br/>
+                You're still the one I kiss goodnight<br/>
+                You're still the one
+            </p>
+            <p>
+                <i>Interlude</i><br/>
+                (Ooh, ooh, ooh)<br/>
+                Yeah
+            </p>
+            <p>
+                <i>Refreng</i><br/>
+                (You're still the one) You're still the one I run to<br/>
+                The one that I belong to<br/>
+                You're still the one I want for life, oh, yeah<br/>
+                (You're still the one) You're still the one that I love<br/>
+                The only one I dream of<br/>
+                You're still the one I kiss goodnight
+            </p>
+            <p>
+                <i>Outro</i><br/>
+                I'm so glad we made it<br/>
+                Look how far we've come, my baby
+            </p>
+        `,
+    },
+    {
+        id: 15,
+        title: 'Call Me Maybe',
+        artist: 'Carly Rae Jepsen',
+        album: 'Kiss',
+        year: 2011,
+        art: 'carly-rae-jepsen-call-me-maybe.jpg',
+        lyrics: `
+            <p>
+                <i>Vers 1</i><br>
+                I threw a wish in the well<br>
+                Don't ask me, I'll never tell<br>
+                I looked to you as it fell<br>
+                And now you're in my way<br>
+                I trade my soul for a wish<br>
+                Pennies and dimes for a kiss<br>
+                I wasn't looking for this<br>
+                But now you're in my way
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                Your stare was holdin'<br>
+                Ripped jeans, skin was showin'<br>
+                Hot night, wind was blowin'<br>
+                Where you think you're going, baby?
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Hey, I just met you and this is crazy<br>
+                But here's my number, so call me, maybe<br>
+                It's hard to look right at you, baby<br>
+                But here's my number, so call me, maybe<br>
+                Hey, I just met you and this is crazy<br>
+                But here's my number, so call me, maybe<br>
+                And all the other boys try to chase me<br>
+                But here's my number, so call me, maybe
+            </p>
+            <p>
+                <i>Vers 2</i><br>
+                You took your time with the call<br>
+                I took no time with the fall<br>
+                You gave me nothin' at all<br>
+                But still you're in my way<br>
+                I beg and borrow and steal<br>
+                At first sight and it's real<br>
+                I didn't know I would feel it<br>
+                But it's in my way
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                Your stare was holdin'<br>
+                Ripped jeans, skin was showin'<br>
+                Hot night, wind was blowin'<br>
+                Where you think you're going, baby?
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Hey, I just met you and this is crazy<br>
+                But here's my number, so call me, maybe<br>
+                It's hard to look right at you, baby<br>
+                But here's my number, so call me, maybe<br>
+                Hey, I just met you and this is crazy<br>
+                But here's my number, so call me, maybe<br>
+                And all the other boys try to chase me<br>
+                But here's my number, so call me, maybe
+            </p>
+            <p>
+                <i>Post-Chorus</i><br>
+                Before you came into my life, I missed you so bad<br>
+                I missed you so bad<br>
+                I missed you so, so bad<br>
+                Before you came into my life, I missed you so bad<br>
+                And you should know that<br>
+                I missed you so, so bad
+            </p>
+            <p>
+                <i>Bro</i><br>
+                It's hard to look right at you, baby<br>
+                But here's my number, so call me, maybe
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Hey, I just met you and this is crazy<br>
+                But here's my number, so call me, maybe<br>
+                And all the other boys try to chase me<br>
+                But here's my number, so call me, maybe
+            </p>
+            <p>
+                <i>Post-Chorus</i><br>
+                Before you came into my life, I missed you so bad<br>
+                I missed you so bad<br>
+                I missed you so, so bad<br>
+                Before you came into my life, I missed you so bad<br>
+                And you should know that<br>
+                So call me, maybe
+            </p>
+        `,
+    },
+    {
+        id: 16,
+        title: 'Africa',
+        artist: 'Toto',
+        album: 'Toto IV',
+        year: 1982,
+        art: 'toto-africa.jpg',
+        lyrics: `
+            <p>
+                <i>Verse 1</i><br />
+                I hear the drums echoing tonight<br />
+                But she hears only whispers of some quiet conversation<br />
+                She's coming in, 12:30 flight<br />
+                Her moonlit wings reflect the stars that guide me towards salvation<br />
+                I stopped an old man along the way<br />
+                Hoping to find some old forgotten words or ancient melodies<br />
+                He turned to me as if to say<br />
+                "Hurry, boy, it's waiting there for you"
+                </p>
+            <p>
+                <i>Chorus</i><br />
+                It's gonna take a lot to drag me away from you<br />
+                There's nothing that a hundred men or more could ever do<br />
+                I bless the rains down in Africa<br />
+                Gonna take some time to do the things we never had (Ooh)
+            </p>
+            <p>
+                <i>Verse 2</i><br />
+                The wild dogs cry out in the night<br />
+                As they grow restless longing for some solitary company<br />
+                I know that I must do what's right<br />
+                As sure as Kilimanjaro rises like Olympus above the Serengeti<br />
+                I seek to cure what's deep inside<br />
+                Frightened of this thing that I've become
+            </p>
+            <p>
+                <i>Bridge</i><br />
+                Hurry, boy, she's waiting there for you
+            </p>
+            <p>
+                <i>Chorus</i><br />
+                It's gonna take a lot to drag me away from you<br />
+                There's nothing that a hundred men or more could ever do<br />
+                I bless the rains down in Africa<br />
+                I bless the rains down in Africa (I bless the rains)<br />
+                I bless the rains down in Africa (I bless the rains)<br />
+                I bless the rains down in Africa<br />
+                I bless the rains down in Africa (Gonna take the time)<br />
+                Gonna take some time to do the things we never had
+            </p>
+        `,
+    },
+    {
+        id: 17,
+        title: 'Roar',
+        artist: 'Katy Perry',
+        album: 'PRISM',
+        year: 2013,
+        art: 'katy-perry-roar.jpg',
+        lyrics: `
+        <p><i>[Verse 1]</i><br>
+    I used to bite my tongue and hold my breath<br>
+    Scared to rock the boat and make a mess<br>
+    So I sat quietly, agreed politely<br>
+    I guess that I forgot I had a choice<br>
+    I let you push me past the breaking point<br>
+    I stood for nothing, so I fell for everything<br>
+</p>
+
+<p><i>[Pre-Chorus]</i><br>
+    You held me down, but I got up (Hey)<br>
+    Already brushing off the dust<br>
+    You hear my voice, you hear that sound<br>
+    Like thunder, gonna shake the ground<br>
+    You held me down, but I got up (Hey)<br>
+    Get ready 'cause I've had enough<br>
+    I see it all, I see it now<br>
+</p>
+
+<p><i>[Refreng]</i><br>
+    I got the eye of the tiger, a fighter<br>
+    Dancing through the fire<br>
+    'Cause I am a champion, and you're gonna hear me roar<br>
+    Louder, louder than a lion<br>
+    'Cause I am a champion, and you're gonna hear me roar<br>
+</p>
+
+<p><i>[Post-Chorus]</i><br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    You're gonna hear me roar<br>
+</p>
+
+<p><i>[Verse 2]</i><br>
+    Now I'm floating like a butterfly<br>
+    Stinging like a bee, I earned my stripes<br>
+    I went from zero, to my own hero<br>
+</p>
+
+<p><i>[Pre-Chorus]</i><br>
+    You held me down, but I got up (Hey)<br>
+    Already brushing off the dust<br>
+    You hear my voice, you hear that sound<br>
+    Like thunder, gonna shake the ground<br>
+    You held me down, but I got up (Got up)<br>
+    Get ready 'cause I've had enough<br>
+    I see it all, I see it now<br>
+</p>
+
+<p><i>[Refreng]</i><br>
+    I got the eye of the tiger, a fighter<br>
+    Dancing through the fire<br>
+    'Cause I am a champion, and you're gonna hear me roar<br>
+    Louder, louder than a lion<br>
+    'Cause I am a champion, and you're gonna hear me roar<br>
+</p>
+
+<p><i>[Post-Chorus]</i><br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    You're gonna hear me roar<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    (You'll hear me roar)<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    You're gonna hear me roar<br>
+</p>
+
+<p><i>[Bro]</i><br>
+    Roar, roar, roar, roar, roar<br>
+</p>
+
+<p><i>[Refreng]</i><br>
+    I got the eye of the tiger, a fighter<br>
+    Dancing through the fire<br>
+    'Cause I am a champion, and you're gonna hear me roar<br>
+    Oh, louder, louder than a lion<br>
+    'Cause I am a champion, and you're gonna hear me roar<br>
+</p>
+
+<p><i>[Post-Chorus]</i><br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    You're gonna hear me roar<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    (You'll hear me roar)<br>
+    Oh-oh-oh-oh-oh-oh-oh<br>
+    You're gonna hear me roar<br>
+</p>
+        `,
+    },
+    {
+        id: 18,
+        title: 'Happy',
+        artist: 'Pharrell Williams',
+        album: 'G I R L',
+        year: 2014,
+        art: 'pharrell-williams-happy.jpg',
+        lyrics: `
+            <p>
+                <i>Verse 1</i><br>
+                It might seem crazy what I'm 'bout to say<br>
+                Sunshine she's here, you can take a break<br>
+                I'm a hot air balloon that could go to space<br>
+                With the air, like I don't care, baby, by the way
+            </p>
+
+            <p>
+                <i>Refreng</i><br>
+                (Because I'm happy)<br>
+                Clap along if you feel like a room without a roof<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like happiness is the truth<br>
+                (Because I'm happy)<br>
+                Clap along if you know what happiness is to you<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like that's what you wanna do
+            </p>
+
+            <p>
+                <i>Verse 2</i><br>
+                Here come bad news, talking this and that (Yeah!)<br>
+                Well, give me all you got, don't hold it back (Yeah!)<br>
+                Well, I should probably warn ya, I'll be just fine (Yeah!)<br>
+                No offense to you, don’t waste your time, here's why
+            </p>
+
+            <p>
+                <i>Refreng</i><br>
+                (Because I'm happy)<br>
+                Clap along if you feel like a room without a roof<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like happiness is the truth<br>
+                (Because I'm happy)<br>
+                Clap along if you know what happiness is to you<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like that's what you wanna do
+            </p>
+
+            <p>
+                <i>Bro</i><br>
+                Bring me down<br>
+                Can't nothing bring me down<br>
+                My level's too high to bring me down<br>
+                Can't nothing bring me down, I said<br>
+                Bring me down<br>
+                Can't nothing bring me down<br>
+                My level's too high to bring me down<br>
+                Can't nothing bring me down, I said
+            </p>
+
+            <p>
+                <i>Refreng</i><br>
+                (Because I'm happy)<br>
+                Clap along if you feel like a room without a roof<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like happiness is the truth<br>
+                (Because I'm happy)<br>
+                Clap along if you know what happiness is to you<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like that's what you wanna do
+            </p>
+
+            <p>
+                <i>Bro</i><br>
+                Bring me down<br>
+                Can't nothing bring me down<br>
+                My level's too high to bring me down<br>
+                Can't nothing bring me down, I said...
+            </p>
+
+            <p>
+                <i>Refreng</i><br>
+                (Because I'm happy)<br>
+                Clap along if you feel like a room without a roof<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like happiness is the truth<br>
+                (Because I'm happy)<br>
+                Clap along if you know what happiness is to you<br>
+                (Because I'm happy)<br>
+                Clap along if you feel like that's what you wanna do (Come on)
+            </p>
+        `,
+    },
+    {
+        id: 19,
+        title: 'Sommerkroppen',
+        artist: 'Mads Hansen',
+        album: 'Sommerkroppen - Single',
+        year: 2018,
+        art: 'mads-hansen-sommerkroppen.jpg',
+        lyrics: `
+            <p>
+                <i>Intro</i><br>
+                Nå blir det flomvarsel her altså
+            </p>
+            <p>
+                <i>Vers 1</i><br>
+                Nå som fotballkarriæra mi er død<br>
+                Kan jeg endelig få båten min på sjøen<br>
+                Motoren gikk til helvete i Kragerø<br>
+                Men alt kan repareres (Hey!)<br>
+                Svir i stykker pølser på engangsgrill<br>
+                Ikke mere trening, jeg tar det helt chill<br>
+                Skal jeg få sommerkroppen som jeg vil<br>
+                Så må jeg opereres
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                De har en klinikk for meg på Majorstua<br>
+                De fikser meg så utrolig bra<br>
+                Du kan stikke og trene noe squats<br>
+                Jeg skal opereres (Hey!)
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Sol, øl, smiler til kamera<br>
+                Loff, smør, chillern og slapper av<br>
+                Lever som aldri før<br>
+                Gidder ikke trene, når jeg kan operere<br>
+                Sol, øl, smiler til kamera<br>
+                Loff, smør, chillern og slapper av<br>
+                Lever som aldri før<br>
+                Gidder ikke trene, når jeg kan operere (Det her er livet)
+            </p>
+            <p>
+                <i>Vers 2</i><br>
+                Koser meg på stranda med sigg og snus<br>
+                Skyller ned noe snop med en liter brus<br>
+                Kjeften min er gul og den se'kke ut<br>
+                Men tennene kan blekes (Rabattkode: 20 prosent)<br>
+                Jeg har appelsinhud og rynkefjes<br>
+                Så fyller på med Botox i ny og ne<br>
+                Begynt å miste håret, men samma det<br>
+                Alt kan transplanteres
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                De har en klinikk for meg på Majorstua<br>
+                De fikser meg så utrolig bra<br>
+                Du kan stikke og trene noe squats<br>
+                Jeg skal opereres (Hey!)
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Sol, øl, smiler til kamera<br>
+                Loff, smør, chillern og slapper av<br>
+                Lever som aldri før<br>
+                Gidder ikke trene, når jeg kan operere<br>
+                Sol, øl, smiler til kamera<br>
+                Loff, smør, chillern og slapper av<br>
+                Lever som aldri før<br>
+                Gidder ikke trene, når jeg kan operere
+            </p>
+            <p>
+                <i>Bro</i><br>
+                Tenk at jeg har driti meg ut med styrketrening og intervaller i så mange år<br>
+                Ja du ser jo ut som en helt annen person nå da<br>
+                Du ligner jo ikke på deg sjøl lenger<br>
+                Takk (Jada!)
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                Sol, øl, smiler til kamera<br>
+                Loff, smør, chillern og slapper av<br>
+                Lever som aldri før<br>
+                Gidder ikke trene, når jeg kan operere<br>
+                Sol, øl, smiler til kamera<br>
+                Loff, smør, chillern og slapper av<br>
+                Lever som aldri før<br>
+                Gidder ikke trene, når jeg kan operere
+            </p>
+            <p>
+                <i>Outro</i><br>
+                Det er digg<br>
+                Loff og smør det æ'kke sunt<br>
+                Men det er digg
+            </p>
+        `,
+    },
+    {
+        id: 20,
+        title: '...Baby One More Time',
+        artist: 'Britney Spears',
+        album: '...Baby One More Time',
+        year: 1999,
+        art: 'britney-spears-baby-one-more-time.jpg',
+        lyrics: `
+            <p>
+                <i>Intro</i><br>
+                Oh, baby, baby<br>
+                Oh, baby, baby
+            </p>
+            <p>
+                <i>Vers 1</i><br>
+                Oh, baby, baby<br>
+                How was I supposed to know<br>
+                That something wasn't right here?<br>
+                Oh, baby, baby<br>
+                I shouldn't have let you go<br>
+                And now you're out of sight, yeah
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                Show me how you want it to be<br>
+                Tell me, baby, 'cause I need to know now<br>
+                Oh, because
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                My loneliness is killing me (And I)<br>
+                I must confess, I still believe (Still believe)<br>
+                When I'm not with you, I lose my mind<br>
+                Give me a sign<br>
+                Hit me, baby, one more time
+            </p>
+            <p>
+                <i>Vers 2</i><br>
+                Oh, baby, baby<br>
+                The reason I breathe is you (Oh, yeah)<br>
+                Boy, you got me blinded<br>
+                Oh, pretty, baby<br>
+                There's nothing that I wouldn't do<br>
+                It's not the way I planned it
+            </p>
+            <p>
+                <i>Pre-Chorus</i><br>
+                Show me how you want it to be<br>
+                Tell me, baby, 'cause I need to know now<br>
+                Oh, because
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                My loneliness is killing me (And I)<br>
+                I must confess, I still believe (Still believe)<br>
+                When I'm not with you, I lose my mind<br>
+                Give me a sign<br>
+                Hit me, baby, one more time
+            </p>
+            <p>
+                <i>Post-Chorus</i><br>
+                Oh, baby, baby (Oh)<br>
+                Oh, baby, baby (Yeah)
+            </p>
+            <p>
+                <i>Bro</i><br>
+                Oh, baby, baby<br>
+                How was I supposed to know?<br>
+                Oh, pretty, baby<br>
+                I shouldn't have let you go<br>
+                I must confess that my loneliness is killing me now<br>
+                Don't you know I still believe<br>
+                That you will be here and give me a sign<br>
+                Hit me, baby, one more time
+            </p>
+            <p>
+                <i>Refreng</i><br>
+                My loneliness is killing me (And I)<br>
+                I must confess, I still believe (Still believe)<br>
+                When I'm not with you, I lose my mind<br>
+                Give me a sign<br>
+                Hit me, baby, one more time
+            </p>
+            <p>
+                <i>Outro</i><br>
+                I must confess (My loneliness)<br>
+                That my loneliness (Is killing me)<br>
+                Is killing me now (I must confess, I still believe)<br>
+                Don't you know I still believe (When I'm not with you)<br>
+                That you will be here (I lose my mind)<br>
+                And give me a sign<br>
+                Hit me, baby, one more time
+            </p>
+        `,
+    },
 ];
