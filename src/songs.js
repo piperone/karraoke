@@ -1762,7 +1762,7 @@ export default [
         art: 'johanna-i-juvet.png',
         lyrics: `
         <p><i>Vers 1</i><br>
-            &Aelig; vandre i frostkalde netter<br>
+            &AElig; vandre i frostkalde netter<br>
             P&aring; ski over skogkledte sletter<br>
             Der gran etter gran kjem luskanes stille etter<br>
             I dalom &aelig; br&oslash;yte vei<br>
