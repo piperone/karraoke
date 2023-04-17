@@ -23,7 +23,7 @@ export default [
                 Oh, I’ll be fucked up if you can't be right here<br>
             </p>
             <p>
-                <i>Pre-chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Oh, ooh-woah (Oh, ooh-woah, ooh-woah)<br>
                 Oh, ooh-woah (Oh, ooh-woah, ooh-woah)<br>
                 Oh, ooh-woah (Oh, ooh-woah, ooh-woah)<br>
@@ -55,7 +55,7 @@ export default [
             </p>
 
             <p>
-                <i>Pre-chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Oh, ooh-woah (Oh, ooh-woah, ooh-woah)<br>
                 Oh, ooh-woah (Oh, ooh-woah, ooh-woah)<br>
                 Oh, ooh-woah (Oh, ooh-woah, ooh-woah)<br>
@@ -95,7 +95,7 @@ export default [
             </p>
 
             <p>
-                <i>Verse 1</i><br>
+                <i>Vers 1</i><br>
                 Well, good for you, I guess you moved on really easily<br>
                 You found a new girl and it only took a couple weeks<br>
                 Remember when you said that you wanted to give me the world?<br>
@@ -105,7 +105,7 @@ export default [
                 Now you can be a better man for your brand new girl (Girl)
             </p>
             <p>
-                <i>Chorus</i><br>
+                <i>Refreng</i><br>
                 Well, good for you<br>
                 You look happy and healthy, not me<br>
                 If you ever cared to ask<br>
@@ -119,7 +119,7 @@ export default [
             </p>
 
             <p>
-                <i>Verse 2</i><br>
+                <i>Vers 2</i><br>
                 Well, good for you, I guess you're gettin' everything you want (Ah)<br>
                 You bought a new car and your career's really takin' off (Ah)<br>
                 It's like we never even happened<br>
@@ -131,7 +131,7 @@ export default [
             </p>
 
             <p>
-                <i>Chorus</i><br>
+                <i>Refreng</i><br>
                 Well, good for you<br>
                 You look happy and healthy, not me<br>
                 If you ever cared to ask<br>
@@ -163,7 +163,7 @@ export default [
             </p>
 
             <p>
-                <i>Chorus</i><br>
+                <i>Refreng</i><br>
                 Well, good for you<br>
                 You look happy and healthy, not me<br>
                 If you ever cared to ask<br>
@@ -273,7 +273,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             Elska av de andre men du elska ikke den du var<br>
             For gutten inni bildet klarte aldri å finne gode svar
         </p>
@@ -301,7 +301,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             Elska av de andre men du elska ikke den du var<br>
             For gutten inni bildet klarte aldri å finne gode svar
         </p>
@@ -564,7 +564,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             She says, "We've gotta hold on to what we've got<br>
             It doesn't make a difference if we make it or not<br>
             We've got each other and that's a lot for love<br>
@@ -592,7 +592,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             We've gotta hold on to what we've got<br>
             It doesn't make a difference if we make it or not<br>
             We've got each other and that's a lot for love<br>
@@ -643,7 +643,7 @@ export default [
         art: 'abba-gimme-gimme-gimme.jpg',
         lyrics: `
         <p>
-            <i>Verse 1</i><br>
+            <i>Vers 1</i><br>
             Half-past twelve<br>
             And I'm watching the late show in my flat, all alone<br>
             How I hate to spend the evening on my own<br>
@@ -653,13 +653,13 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             There's not a soul out there<br>
             No one to hear my prayer
         </p>
 
         <p>
-            <i>Chorus</i><br>
+            <i>Refreng</i><br>
             Gimme, gimme, gimme a man after midnight<br>
             Won't somebody help me chase the shadows away?<br>
             Gimme, gimme, gimme a man after midnight<br>
@@ -667,7 +667,7 @@ export default [
         </p>
 
         <p>
-            <i>Verse 2</i><br>
+            <i>Vers 2</i><br>
             Movie stars<br>
             Find the end of the rainbow with a fortune to win<br>
             It's so different from the world I'm living in<br>
@@ -677,7 +677,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             There's not a soul out there<br>
             No one to hear my prayer
         </p>
@@ -693,13 +693,13 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus</i><br>
+            <i>Pre-Refreng</i><br>
             There's not a soul out there<br>
             No one to hear my prayer
         </p>
 
         <p>
-            <i>Chorus</i><br>
+            <i>Refreng</i><br>
             Gimme, gimme, gimme a man after midnight<br>
             Won't somebody help me chase the shadows away?<br>
             Gimme, gimme, gimme a man after midnight<br>
@@ -726,7 +726,7 @@ export default [
         </p>
 
         <p>
-            <i>Verse 1</i><br>
+            <i>Vers 1</i><br>
             Life's like a road that you travel on<br>
             When there's one day here and the next day gone<br>
             Sometimes you bend, sometimes you stand<br>
@@ -738,7 +738,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus 1</i><br>
+            <i>Pre-Refreng 1</i><br>
             We won't hesitate<br>
             To break down the garden gate<br>
             There's not much time left today, yeah
@@ -753,7 +753,7 @@ export default [
         </p>
 
         <p>
-            <i>Verse 2</i><br>
+            <i>Vers 2</i><br>
             Through all these cities and all these towns<br>
             It's in my blood and it's all around<br>
             I love you now like I loved you then<br>
@@ -765,7 +765,7 @@ export default [
         </p>
 
         <p>
-            <i>Pre-Chorus 2</i><br>
+            <i>Pre-Refreng 2</i><br>
             There's no load I can't hold<br>
             The roads are rough, this I know<br>
             I'll be there when the light comes in<br>
@@ -935,7 +935,7 @@ export default [
                 It goes on and on and on and on
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Strangers waitin'<br>
                 Up and down the boulevard<br>
                 Their shadows searchin' in the night<br>
@@ -958,7 +958,7 @@ export default [
                 It goes on and on and on and on
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Strangers waitin'<br>
                 Up and down the boulevard<br>
                 Their shadows searchin' in the night<br>
@@ -1083,7 +1083,7 @@ export default [
                 We knew we'd get there someday
             </p>
             <p>
-                <i>Pre-Chorus</i><br/>
+                <i>Pre-Refreng</i><br/>
                 They said, "I bet they'll never make it"<br/>
                 But just look at us holdin' on<br/>
                 We're still together, still goin' strong
@@ -1105,7 +1105,7 @@ export default [
                 Look at what we would be missin'
             </p>
             <p>
-                <i>Pre-Chorus</i><br/>
+                <i>Pre-Refreng</i><br/>
                 They said, "I bet they'll never make it"<br/>
                 But just look at us holdin' on<br/>
                 We're still together, still goin' strong
@@ -1161,7 +1161,7 @@ export default [
                 But now you're in my way
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Your stare was holdin'<br>
                 Ripped jeans, skin was showin'<br>
                 Hot night, wind was blowin'<br>
@@ -1190,7 +1190,7 @@ export default [
                 But it's in my way
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Your stare was holdin'<br>
                 Ripped jeans, skin was showin'<br>
                 Hot night, wind was blowin'<br>
@@ -1208,7 +1208,7 @@ export default [
                 But here's my number, so call me, maybe
             </p>
             <p>
-                <i>Post-Chorus</i><br>
+                <i>Post-Refreng</i><br>
                 Before you came into my life, I missed you so bad<br>
                 I missed you so bad<br>
                 I missed you so, so bad<br>
@@ -1229,7 +1229,7 @@ export default [
                 But here's my number, so call me, maybe
             </p>
             <p>
-                <i>Post-Chorus</i><br>
+                <i>Post-Refreng</i><br>
                 Before you came into my life, I missed you so bad<br>
                 I missed you so bad<br>
                 I missed you so, so bad<br>
@@ -1248,7 +1248,7 @@ export default [
         art: 'toto-africa.jpg',
         lyrics: `
             <p>
-                <i>Verse 1</i><br />
+                <i>Vers 1</i><br />
                 I hear the drums echoing tonight<br />
                 But she hears only whispers of some quiet conversation<br />
                 She's coming in, 12:30 flight<br />
@@ -1259,14 +1259,14 @@ export default [
                 "Hurry, boy, it's waiting there for you"
                 </p>
             <p>
-                <i>Chorus</i><br />
+                <i>Refreng</i><br />
                 It's gonna take a lot to drag me away from you<br />
                 There's nothing that a hundred men or more could ever do<br />
                 I bless the rains down in Africa<br />
                 Gonna take some time to do the things we never had (Ooh)
             </p>
             <p>
-                <i>Verse 2</i><br />
+                <i>Vers 2</i><br />
                 The wild dogs cry out in the night<br />
                 As they grow restless longing for some solitary company<br />
                 I know that I must do what's right<br />
@@ -1279,7 +1279,7 @@ export default [
                 Hurry, boy, she's waiting there for you
             </p>
             <p>
-                <i>Chorus</i><br />
+                <i>Refreng</i><br />
                 It's gonna take a lot to drag me away from you<br />
                 There's nothing that a hundred men or more could ever do<br />
                 I bless the rains down in Africa<br />
@@ -1299,7 +1299,7 @@ export default [
         year: 2013,
         art: 'katy-perry-roar.jpg',
         lyrics: `
-        <p><i>[Verse 1]</i><br>
+        <p><i>[Vers 1]</i><br>
     I used to bite my tongue and hold my breath<br>
     Scared to rock the boat and make a mess<br>
     So I sat quietly, agreed politely<br>
@@ -1308,7 +1308,7 @@ export default [
     I stood for nothing, so I fell for everything<br>
 </p>
 
-<p><i>[Pre-Chorus]</i><br>
+<p><i>[Pre-Refreng]</i><br>
     You held me down, but I got up (Hey)<br>
     Already brushing off the dust<br>
     You hear my voice, you hear that sound<br>
@@ -1326,20 +1326,20 @@ export default [
     'Cause I am a champion, and you're gonna hear me roar<br>
 </p>
 
-<p><i>[Post-Chorus]</i><br>
+<p><i>[Post-Refreng]</i><br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     You're gonna hear me roar<br>
 </p>
 
-<p><i>[Verse 2]</i><br>
+<p><i>[Vers 2]</i><br>
     Now I'm floating like a butterfly<br>
     Stinging like a bee, I earned my stripes<br>
     I went from zero, to my own hero<br>
 </p>
 
-<p><i>[Pre-Chorus]</i><br>
+<p><i>[Pre-Refreng]</i><br>
     You held me down, but I got up (Hey)<br>
     Already brushing off the dust<br>
     You hear my voice, you hear that sound<br>
@@ -1357,7 +1357,7 @@ export default [
     'Cause I am a champion, and you're gonna hear me roar<br>
 </p>
 
-<p><i>[Post-Chorus]</i><br>
+<p><i>[Post-Refreng]</i><br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     Oh-oh-oh-oh-oh-oh-oh<br>
@@ -1381,7 +1381,7 @@ export default [
     'Cause I am a champion, and you're gonna hear me roar<br>
 </p>
 
-<p><i>[Post-Chorus]</i><br>
+<p><i>[Post-Refreng]</i><br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     Oh-oh-oh-oh-oh-oh-oh<br>
     Oh-oh-oh-oh-oh-oh-oh<br>
@@ -1403,7 +1403,7 @@ export default [
         art: 'pharrell-williams-happy.jpg',
         lyrics: `
             <p>
-                <i>Verse 1</i><br>
+                <i>Vers 1</i><br>
                 It might seem crazy what I'm 'bout to say<br>
                 Sunshine she's here, you can take a break<br>
                 I'm a hot air balloon that could go to space<br>
@@ -1423,7 +1423,7 @@ export default [
             </p>
 
             <p>
-                <i>Verse 2</i><br>
+                <i>Vers 2</i><br>
                 Here come bad news, talking this and that (Yeah!)<br>
                 Well, give me all you got, don't hold it back (Yeah!)<br>
                 Well, I should probably warn ya, I'll be just fine (Yeah!)<br>
@@ -1511,7 +1511,7 @@ export default [
                 Så må jeg opereres
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 De har en klinikk for meg på Majorstua<br>
                 De fikser meg så utrolig bra<br>
                 Du kan stikke og trene noe squats<br>
@@ -1540,7 +1540,7 @@ export default [
                 Alt kan transplanteres
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 De har en klinikk for meg på Majorstua<br>
                 De fikser meg så utrolig bra<br>
                 Du kan stikke og trene noe squats<br>
@@ -1606,7 +1606,7 @@ export default [
                 And now you're out of sight, yeah
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Show me how you want it to be<br>
                 Tell me, baby, 'cause I need to know now<br>
                 Oh, because
@@ -1629,7 +1629,7 @@ export default [
                 It's not the way I planned it
             </p>
             <p>
-                <i>Pre-Chorus</i><br>
+                <i>Pre-Refreng</i><br>
                 Show me how you want it to be<br>
                 Tell me, baby, 'cause I need to know now<br>
                 Oh, because
@@ -1643,7 +1643,7 @@ export default [
                 Hit me, baby, one more time
             </p>
             <p>
-                <i>Post-Chorus</i><br>
+                <i>Post-Refreng</i><br>
                 Oh, baby, baby (Oh)<br>
                 Oh, baby, baby (Yeah)
             </p>
@@ -1676,6 +1676,558 @@ export default [
                 And give me a sign<br>
                 Hit me, baby, one more time
             </p>
+        `,
+    },
+    {
+        id: 21,
+        title: 'Førarkortet',
+        artist: 'Vømmøl Spellmannslag',
+        album: 'Vømlingen',
+        year: 1975,
+        art: 'forarkorte.jpg',
+        lyrics: `
+            <p><i>Vers 1</i><br>
+                &AElig; villa ler m&aelig; &aring; kj&oslash;r bil, ja, det va itj tvil &AElig; hadd bildilla<br>
+                &AElig; l&aring;g klistra te eit ratt, las teori te langt p&aring; natt<br>
+                Og &aelig; dr&oslash;mt at &aelig; fôr og trilla<br>
+                Og s&aring; kom den store dagen, og &aelig; ha s&aring; vondt i magen<br>
+                Men &aelig; toppa ti m&aelig;'n tretten-fjorten pilla<br>
+                Og du verden, det gikk fort, ja, plutselig va det gjort<br>
+                Og &aelig; sto der med eit f&oslash;rarkort</p>
+
+            <p><i>Refreng</i><br>
+                Tiddl-tiddl-tittn-stil og tiddl-tittn-tvil<br>
+                Og tiddl-tittn-bildilla og bil<br>
+                Og tiddl-tiddl-tittn-gjort og tiddl-tiddl-tittn-fort<br>
+                Og tiddl-tittn-tiddl-tittn-f&oslash;rarkort</p>
+
+            <p><i>Vers 2</i><br>
+                Og da'n ettp&aring; det, s&aring; bars det av sted P&aring; vei'n med eit lass med ved<br>
+                &AElig; kjaul som eit svin og osa bensin Og bilen slingra opp og ned<br>
+                &AElig; kr&aelig;sja med ei bj&oslash;rk og vart henganes te t&oslash;rk I ei klessnor like ved<br>
+                Jakka hu va bort, og buksa full t&aring; lort Og i under buksa l&aring;g det eit f&oslash;rarkort</p>
+
+            <p><i>Refreng</i><br>
+                Tiddl-tiddl-tittn-stil og tiddl-tittn-tvil<br>
+                Og tiddl-tittn-bildilla og bil<br>
+                Og tiddl-tiddl-tittn-gjort og tiddl-tiddl-tittn-fort<br>
+                Og tiddl-tittn-tiddl-tittn-f&oslash;rarkort</p>
+
+            <p><i>Vers 3</i><br>
+                Henn gongen gikk det bra, men s&aring; va det ein da' &AElig; trur det va i slutten p&aring; april<br>
+                &AElig; drakk ei flaske vin, og formen va s&aring; fin Og &aelig; kjaul med eit sekkert smil<br>
+                Plutselig kjem ein sving, &aelig; skj&oslash;nt ingenting &AElig; kr&aelig;sja med ein politibil<br>
+                Du verden, det gikk fort, ja, plutselig va det gjort<br>
+                Men &aelig; t&oslash;kt det va rart, for &aelig; ha da f&oslash;rarkort!</p>
+
+            <p><i>Refreng</i><br>
+                Tiddl-tiddl-tittn-stil og tiddl-tittn-tvil<br>
+                Og tiddl-tittn-bildilla og bil<br>
+                Og tiddl-tiddl-tittn-gjort og tiddl-tiddl-tittn-fort<br>
+                Og tiddl-tittn-tiddl-tittn-f&oslash;rarkort</p>
+
+            <p><i>Vers 4</i><br>
+                Polisen han va ful, for &aelig; ha kr&aelig;sja t&aring;'n hjul<br>
+                Og han spurt m&aelig; ka &aelig; holdt p&aring; med<br>
+                &AElig; pr&oslash;vd &aring; v&aring;rr&aring; diplomat og ga'n femti krona akkurat<br>
+                Men han va ikke interessert i det<br>
+                Han va rett og slett forbanna, og han tok m&aelig; s&aring; i handa<br>
+                Og han drog m&aelig; inn i'n Chevrolet<br>
+                Han sa: "Det g&aring;r for fort!" og dermed va det gjort<br>
+                &AElig; vart utan f&oslash;rarkort</p>
+
+            <p><i>Refreng</i><br>
+                Tiddl-tiddl-tittn-stil og tiddl-tittn-tvil<br>
+                Og tiddl-tittn-bildilla og bil<br>
+                Og tiddl-tiddl-tittn-gjort og tiddl-tiddl-tittn-fort<br>
+                Og tiddl-tittn-tiddl-tittn-f&oslash;rarkort</p>
+
+            <p><i>Vers 5</i><br>
+                Det bars i arresten, &aelig; pr&oslash;vd &aring; apeller te presten<br>
+                Og etti &aring;tt-og-tyve d&aring;gg&aring; vart &aelig; fri<br>
+                Nu kj&oslash;re &aelig; omkring, og l&aelig;ss som ingenting<br>
+                Med pokerfjes og smile blid<br>
+                Du veit, det e mangt &aring; sj&aring; p&aring; vei'n, det mang som kj&oslash;re &aring;lein<br>
+                Og det e mang som kj&oslash;re sand og stein<br>
+                Det e n&aring;n som kj&oslash;re lort, og det e n&aring;n som kj&oslash;re fort<br>
+                Og det e n&aring;n som kj&oslash;re utan f&oslash;rarkort</p>
+        `,
+    },
+    {
+        id: 22,
+        title: 'Johanna i Juvet',
+        artist: 'Vømmøl Spellmannslag',
+        album: 'Johanna Vømmølmusikken',
+        year: 1996,
+        art: 'johanna-i-juvet.png',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            &Aelig; vandre i frostkalde netter<br>
+            P&aring; ski over skogkledte sletter<br>
+            Der gran etter gran kjem luskanes stille etter<br>
+            I dalom &aelig; br&oslash;yte vei<br>
+            P&aring; &aring;san &aelig; speide lei<br>
+            Langt, langt der framme vente ei</p>
+
+        <p><i>Refreng</i><br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            V&aring;rr&aring; aldri aleine<br>
+            V&aring;rr&aring; glad v&aring;rr&aring; glad</p>
+
+        <p><i>Vers 2</i><br>
+            Under vintersolas brann<br>
+            I De Tause Graners Land<br>
+            Hu kjem imot m&aelig; med hest som ein mann<br>
+            Under dombj&oslash;llhestens skyss<br>
+            Og sn&oslash;ens lette dryss<br>
+            Vi smake v&aring;rt aller f&oslash;rste kyss</p>
+
+        <p><i>Refreng</i><br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            V&aring;rr&aring; aldri aleine<br>
+            V&aring;rr&aring; glad v&aring;rr&aring; glad</p>
+
+        <p><i>Vers 3</i><br>
+            P&aring; hennes vinterr&oslash;de kinn<br>
+            Gledest&aring;ra rinn<br>
+            Og elden brinn i rommet der vi st&aring;r<br>
+            Vi knele nakne ved<br>
+            Eit &oslash;ksa kors av tre<br>
+            &Oslash;mme knoppa brest, og det bli v&aring;r</p>
+
+        <p><i>Refreng</i><br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            V&aring;rr&aring; aldri aleine<br>
+            V&aring;rr&aring; glad v&aring;rr&aring; glad<br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            Johanna i Juvet - det e d&aelig; &aelig; vil ha<br>
+            V&aring;rr&aring; aldri aleine<br>
+            V&aring;rr&aring; glad v&aring;rr&aring; glad<br></p>
+
+        `,
+    },
+    {
+        id: 23,
+        title: 'Heaven',
+        artist: 'Bryan Adams',
+        album: 'Reckless',
+        year: 1985,
+        art: 'heaven.jpg',
+        lyrics: `
+            <p><i>Vers 1</i><br>
+                Oh, thinkin' about our younger years<br>
+                There was only you and me<br>
+                We were young and wild and free<br>
+                Now nothin' can take you away from me<br>
+                We've been down that road before<br>
+                But that's over now<br>
+                You keep me comin' back for more</p>
+
+            <p><i>Refreng</i><br>
+                Baby, you're all that I want<br>
+                When you're lyin' here in my arms<br>
+                I'm findin' it hard to believe<br>
+                We're in Heaven<br>
+                And love is all that I need<br>
+                And I found it there in your heart<br>
+                It isn't too hard to see<br>
+                We're in Heaven</p>
+
+            <p><i>Vers 2</i><br>
+                Oh, once in your life you find someone<br>
+                Who will turn your world around<br>
+                Bring you up when you're feelin' down<br>
+                Yeah, nothin' could change what you mean to me<br>
+                Oh, there's lots that I could say<br>
+                But just hold me now<br>
+                Cause our love will light the way</p>
+
+            <p><i>Refreng</i><br>
+                And baby you're all that I want<br>
+                When you're lyin' here in my arms<br>
+                I'm finding it hard to believe<br>
+                We're in Heaven<br>
+                Yeah, love is all that I need<br>
+                And I found it there in your heart<br>
+                It isn't too hard to see<br>
+                We're in Heaven, yeah</p>
+
+            <p><i>Bridge</i><br>
+                I've been waitin' for so long<br>
+                For somethin' to arrive<br>
+                For love to come along<br>
+                Now our dreams are comin' true<br>
+                Through the good times and the bad<br>
+                Yeah, I'll be standin' there by you<br></p>
+
+            <p><i>Refreng</i><br>
+                And baby you're all that I want<br>
+                When you're lyin' here in my arms<br>
+                I'm findin' it hard to believe<br>
+                We're in Heaven<br>
+                And love is all that I need<br>
+                And I found it there in your heart<br>
+                It isn't too hard to see<br>
+                We're in Heaven, Heaven, woah</p>
+
+            <p><i>Outro</i><br>
+                You're all that I want<br>
+                You're all that I need</p>
+        `,
+    },
+    {
+        id: 24,
+        title: 'You Shook Me All Night Long',
+        artist: 'AC/DC',
+        album: 'Back in Black',
+        year: 1980,
+        art: 'you-shook-me-all-night-long.jpg',
+        lyrics: `
+            <p><i>Vers 1</i><br>
+                She was a fast machine, she kept her motor clean<br>
+                She was the best damn woman that I ever seen<br>
+                She had the sightless eyes, telling me no lies<br>
+                Knocking me out with those American thighs<br>
+                Taking more than her share, had me fighting for air<br>
+                She told me to come, but I was already there<br>
+                'Cause the walls start shaking, the Earth was quaking<br>
+                My mind was aching, and we were making it</p>
+
+            <p><i>Refreng</i><br>
+                And you shook me all night long<br>
+                Yeah, you shook me all night long</p>
+
+            <p><i>Vers 2</i><br>
+                Working double-time on the seduction line<br>
+                She's one of a kind, she's just a-mine all mine<br>
+                Wanted no applause, just another course<br>
+                Made a meal outta me, and come back for more<br>
+                Had to cool me down to take another round<br>
+                Now, I'm back in the ring to take another swing<br>
+                That the walls were shaking, the Earth was quaking<br>
+                My mind was aching, and we were making it</p>
+
+            <p><i>Refreng</i><br>
+                And you shook me all night long<br>
+                Yeah, you shook me all night long<br>
+                It knocked me out that<br>
+                You shook me all night long<br>
+                It had me shaking<br>
+                And you shook me all night long<br>
+                Yeah, you shook me<br>
+                Well, you took me</p>
+
+            <p><i>Guitar Solo</i></p>
+
+            <p><i>Refreng</i><br>
+                You really took me and<br>
+                You shook me all night long<br>
+                Ah, you shook me all night long<br>
+                Yeah, yeah, you shook me all night long<br>
+                You really got me and you, shook me all night long<br>
+                Yeah, you shook me<br>
+                Yeah, you shook me<br>
+                All night long</p>
+        `,
+    },
+    {
+        id: 25,
+        title: 'Black Velvet',
+        artist: 'Alannah Myles',
+        album: 'Alannah Myles',
+        year: 1989,
+        art: 'black-velvet.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            Mississippi in the middle of a dry spell<br>
+            Jimmie Rodgers on the Victrola up high<br>
+            Mama's dancin' with baby on her shoulder<br>
+            The sun is settin' like molasses in the sky</p>
+
+        <p><i>Pre-Refreng</i><br>
+            The boy could sing, knew how to move, everything<br>
+            Always wanting more, he'd leave you longing for</p>
+
+        <p><i>Refreng</i><br>
+            Black velvet and that little boy's smile<br>
+            Black velvet with that slow southern style<br>
+            A new religion that'll bring ya to your knees<br>
+            Black velvet if you please</p>
+
+        <p><i>Vers 2</i><br>
+            Up in Memphis, the music's like a heatwave<br>
+            White lightning, bound to drive you wild<br>
+            Mama's baby's in the heart of every schoolgirl<br>
+            "Love Me Tender" leaves 'em cryin' in the aisle</p>
+
+        <p><i>Pre-Refreng</i><br>
+            The way he moved, it was a sin, so sweet and true<br>
+            Always wanting more, he'd leave you longing for</p>
+
+        <p><i>Bridge</i><br>
+            Every word of every song that he sang was for you<br>
+            In a flash, he was gone, it happened so soon<br>
+            What could you do?</p>
+
+        <p><i>Guitar Solo</i></p>
+
+        <p><i>Refreng</i><br>
+            Black velvet and that little boy's smile<br>
+            Black velvet with that slow southern style<br>
+            A new religion that'll bring ya to your knees<br>
+            Black velvet if you please<br>
+            Black velvet and that little boy's smile<br>
+            Black velvet with that slow southern style<br>
+            A new religion that'll bring ya to your knees<br>
+            Black velvet if you please</p>
+
+        <p><i>Outro</i><br>
+            If you please<br>
+            If you please<br>
+            If you please</p>
+        `,
+    },
+    {
+        id: 26,
+        title: 'Mad About You',
+        artist: 'Toto',
+        album: 'Mindfields',
+        year: 1999,
+        art: 'mad-about-you.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            There's something I must say<br>
+            There's something I must do<br>
+            I planned it all this way<br>
+            Designed it just for you<br>
+            Do you wanna be with me<br>
+            Be with me at all<br>
+            Do you have to be so cool<br>
+            Your gentle touch manoeuvered me<br>
+            But all the time I always knew</p>
+
+        <p><i>Refreng</i><br>
+            I'm really mad about you<br>
+            There's nothing bad about our love<br>
+            I'm giving you the only heart I have<br>
+            But I'm afraid tonight it won't be enough</p>
+
+        <p><i>Vers 2</i><br>
+            Can we go on this way<br>
+            There's nothing left to prove<br>
+            It's not another game<br>
+            Or another simple move<br>
+            Do you believe in me<br>
+            Believe in me at all<br>
+            Are you telling me the truth<br>
+            Or is it just imagination<br>
+            Or the perfect dream<br>
+            That I'm here with you</p>
+
+        <p><i>Refreng</i><br>
+            I'm really mad about you<br>
+            There's nothing bad about our love<br>
+            I'm giving you the only heart I have<br>
+            But I'm afraid tonight it won't be enough</p>
+
+        <p><i>Gitar Solo</i></p>
+
+        <p><i>Bridge</i><br>
+            Do you wanna be with me<br>
+            Be with me at all<br>
+            Do you have to be so cool<br>
+            Your gentle touch manoeuvered me<br>
+            But all the time I always knew</p>
+
+        <p><i>Refreng</i><br>
+            I'm really mad about you<br>
+            There's nothing bad about our love<br>
+            I'm giving you the only heart I have<br>
+            But I'm afraid tonight it won't be enough<br>
+            I'm really mad about you<br>
+            There's nothing bad about our love<br>
+            I've never had a broken heart before<br>
+            But I know you'll never tear, tear mine apart</p>
+        `,
+    },
+    {
+        id: 27,
+        title: 'How far I\'ll go',
+        artist: 'Auli\'i Cravalho',
+        album: 'Vaiana',
+        year: 2016,
+        art: 'how-far-ill-go.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            I've been staring at the edge of the water<br>
+            Long as I can remember, never really knowing why<br>
+            I wish I could be the perfect daughter<br>
+            But I come back to the water, no matter how hard I try</p>
+
+        <p><i>Pre-Refreng</i><br>
+            Every turn I take, every trail I track<br>
+            Every path I make, every road leads back<br>
+            To the place I know where I cannot go<br>
+            Where I long to be</p>
+
+        <p><i>Refreng</i><br>
+            See the line where the sky meets the sea? It calls me<br>
+            And no one knows, how far it goes<br>
+            If the wind in my sail on the sea stays behind me<br>
+            One day I'll know<br>
+            If I go there's just no telling how far I'll go</p>
+
+        <p><i>Vers 2</i><br>
+            I know everybody on this island seems so happy, on this island<br>
+            Everything is by design<br>
+            I know everybody on this island has a role, on this island<br>
+            So maybe I can roll with mine</p>
+
+        <p><i>Pre-Refreng</i><br>
+            I can lead with pride, I can make us strong<br>
+            I'll be satisfied if I play along<br>
+            But the voice inside sings a different song<br>
+            What is wrong with me?</p>
+
+        <p><i>Refreng</i><br>
+            See the light as it shines on the sea? It's blinding<br>
+            But no one knows, how deep it goes<br>
+            And it seems like it's calling out to me, so come find me<br>
+            And let me know<br>
+            What's beyond that line, will I cross that line?<br>
+            See the line where the sky meets the sea? It calls me<br>
+            And no one knows, how far it goes<br>
+            If the wind in my sail on the sea stays behind me<br>
+            One day I'll know<br>
+            How far I'll go</p>
+        `,
+    },
+    {
+        id: 28,
+        title: 'Can You Feel the Love Tonight',
+        artist: 'Elton John',
+        album: 'Il Re Leone',
+        year: 2003,
+        art: 'can-you-feel-the-love-tonight.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            There's a calm surrender to the rush of day<br>
+            When the heat of a rolling wind can be turned away<br>
+            An enchanted moment, and it sees me through<br>
+            It's enough for this restless warrior just to be with you</p>
+
+        <p><i>Refreng</i><br>
+            And can you feel the love tonight?<br>
+            It is where we are<br>
+            It's enough for this wide-eyed wanderer<br>
+            That we got this far<br>
+            And can you feel the love tonight?<br>
+            How it's laid to rest<br>
+            It's enough to make kings and vagabonds<br>
+            Believe the very best</p>
+
+        <p><i>Vers 2</i><br>
+            There's a time for everyone if they only learn<br>
+            That the twistin' kaleidoscope moves us all in turn<br>
+            There's a rhyme and reason to the wild outdoors<br>
+            When the heart of this star-crossed voyager beats in time with yours</p>
+
+        <p><i>Refreng</i><br>
+            And can you feel the love tonight?<br>
+            It is where we are<br>
+            It's enough for this wide-eyed wanderer<br>
+            That we got this far<br>
+            And can you feel the love tonight?<br>
+            How it's laid to rest<br>
+            It's enough to make kings and vagabonds<br>
+            Believe the very best</p>
+
+        <p><i>Outro</i><br>
+            It's enough to make kings and vagabonds<br>
+            Believe the very best</p>
+        `,
+    },
+    {
+        id: 29,
+        title: 'I Don\'t Want to Be',
+        artist: 'Gavin DeGraw',
+        album: 'Chariot',
+        year: 2003,
+        art: 'i-dont-wanna-be.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            I don't need to be anything other<br>
+            Than a prison guard's son<br>
+            I don't need to be anything other<br>
+            Than a specialist's son<br>
+            I don't have to be anyone other<br>
+            Than a birth of two souls in one</p>
+
+        <p><i>Pre-Refreng 1</i><br>
+            Part of where I'm going<br>
+            Is knowing where I'm coming from</p>
+
+        <p><i>Refreng</i><br>
+            I don't wanna be<br>
+            Anything other than what I've been tryna be lately<br>
+            All I have to do is think of me, and I have peace of mind<br>
+            I'm tired of looking 'round rooms<br>
+            Wondering what I've gotta do<br>
+            Or who I'm supposed to be<br>
+            I don't wanna be anything other than me</p>
+
+        <p><i>Vers 2</i><br>
+            I'm surrounded by liars<br>
+            Everywhere I turn<br>
+            I'm surrounded by imposters<br>
+            Everywhere I turn<br>
+            I'm surrounded by identity crisis<br>
+            Everywhere I turn</p>
+
+        <p><i>Pre-Refreng 2</i><br>
+            Am I the only one who noticed?<br>
+            I can't be the only one who's learned</p>
+
+        <p><i>Refreng</i><br>
+            I don't wanna be<br>
+            Anything other than what I've been tryna be lately<br>
+            All I have to do is think of me, and I have peace of mind<br>
+            I'm tired of looking 'round rooms<br>
+            Wondering what I've gotta do<br>
+            Or who I'm supposed to be<br>
+            I don't wanna be anything other than me, ah</p>
+
+        <p><i>Bridge</i><br>
+            Can I have everyone's attention please?<br>
+            If you're not like this and that<br>
+            You're gonna have to leave<br>
+            I came from the mountain<br>
+            The crust of creation<br>
+            My whole situation made from clay to stone<br>
+            And now I'm telling everybody</p>
+
+        <p><i>Refreng</i><br>
+            I don't wanna be<br>
+            Anything other than what I've been tryna be lately<br>
+            All I have to do is think of me, and I have peace of mind<br>
+            I'm tired of looking 'round rooms<br>
+            Wondering what I've gotta do<br>
+            Or who I'm supposed to be<br>
+            I don't wanna be anything other than me</p>
+
+        <p><i>Outro</i><br>
+            I don't wanna be, hey, yeah, hey, yeah<br>
+            I don't wanna be, oh-oh<br>
+            I don't wanna be<br>
+            I don't wanna be anything<br>
+            Anything other than me<br>
+            (Hey, yeah, yeah, yeah) I don't wanna be (Hey, yeah, yeah, yeah)<br>
+            (Hey, yeah, yeah, yeah) I don't wanna be (Hey, yeah, yeah, yeah)<br>
+            (Hey, yeah, yeah, yeah) I don't wanna be (Hey, yeah, yeah, yeah)<br>
+            (Hey, yeah, yeah, yeah) I don't wanna be</p>
         `,
     },
 ];
