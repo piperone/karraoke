@@ -683,13 +683,11 @@ export default [
         </p>
 
         <p>
-            <i>Bridge</i><br>
+            <i>Refreng</i><br>
             Gimme, gimme, gimme a man after midnight<br>
-            Gimme, gimme, gimme a man after midnight
-        </p>
-
-        <p>
-            <i>Interlude</i>
+            Won't somebody help me chase the shadows away?<br>
+            Gimme, gimme, gimme a man after midnight<br>
+            Take me through the darkness to the break of the day
         </p>
 
         <p>
@@ -1248,45 +1246,58 @@ export default [
         art: 'toto-africa.jpg',
         lyrics: `
             <p>
-                <i>Vers 1</i><br />
-                I hear the drums echoing tonight<br />
-                But she hears only whispers of some quiet conversation<br />
-                She's coming in, 12:30 flight<br />
-                Her moonlit wings reflect the stars that guide me towards salvation<br />
-                I stopped an old man along the way<br />
-                Hoping to find some old forgotten words or ancient melodies<br />
-                He turned to me as if to say<br />
+                <i>Intro</i>
+            </p>
+            <p>
+                <i>Vers 1</i><br>
+                I hear the drums echoing tonight<br>
+                But she hears only whispers of some quiet conversation<br>
+                She's coming in, 12:30 flight<br>
+                Her moonlit wings reflect the stars that guide me towards salvation<br>
+                I stopped an old man along the way<br>
+                Hoping to find some old forgotten words or ancient melodies<br>
+                He turned to me as if to say<br>
                 "Hurry, boy, it's waiting there for you"
                 </p>
             <p>
-                <i>Refreng</i><br />
-                It's gonna take a lot to drag me away from you<br />
-                There's nothing that a hundred men or more could ever do<br />
-                I bless the rains down in Africa<br />
+                <i>Refreng</i><br>
+                It's gonna take a lot to drag me away from you<br>
+                There's nothing that a hundred men or more could ever do<br>
+                I bless the rains down in Africa<br>
                 Gonna take some time to do the things we never had (Ooh)
             </p>
             <p>
-                <i>Vers 2</i><br />
-                The wild dogs cry out in the night<br />
-                As they grow restless longing for some solitary company<br />
-                I know that I must do what's right<br />
-                As sure as Kilimanjaro rises like Olympus above the Serengeti<br />
-                I seek to cure what's deep inside<br />
+                <i>Vers 2</i><br>
+                The wild dogs cry out in the night<br>
+                As they grow restless longing for some solitary company<br>
+                I know that I must do what's right<br>
+                As sure as Kilimanjaro rises like Olympus above the Serengeti<br>
+                I seek to cure what's deep inside<br>
                 Frightened of this thing that I've become
             </p>
             <p>
-                <i>Bridge</i><br />
+                <i>Refreng</i><br>
+                It's gonna take a lot to drag me away from you<br>
+                There's nothing that a hundred men or more could ever do<br>
+                I bless the rains down in Africa<br>
+                Gonna take some time to do the things we never had (Ooh)
+            </p>
+            <p>
+                <i>Keyboard Solo</i>
+            </p>
+            <p>
+                <i>Bridge</i><br>
                 Hurry, boy, she's waiting there for you
             </p>
             <p>
-                <i>Refreng</i><br />
-                It's gonna take a lot to drag me away from you<br />
-                There's nothing that a hundred men or more could ever do<br />
-                I bless the rains down in Africa<br />
-                I bless the rains down in Africa (I bless the rains)<br />
-                I bless the rains down in Africa (I bless the rains)<br />
-                I bless the rains down in Africa<br />
-                I bless the rains down in Africa (Gonna take the time)<br />
+                <i>Refreng</i><br>
+                It's gonna take a lot to drag me away from you<br>
+                There's nothing that a hundred men or more could ever do<br>
+                I bless the rains down in Africa<br>
+                I bless the rains down in Africa (I bless the rains)<br>
+                I bless the rains down in Africa (I bless the rains)<br>
+                I bless the rains down in Africa<br>
+                I bless the rains down in Africa (Gonna take the time)<br>
                 Gonna take some time to do the things we never had
             </p>
         `,
