@@ -43,7 +43,7 @@ export default [
             </p>
 
             <p>
-                <i>Vers 1</i><br>
+                <i>Vers 2</i><br>
                 When I’m away from you, I miss your touch (Ooh)<br>
                 You’re the reason I believe in love<br>
                 It's been difficult for me to trust (Ooh)<br>
@@ -307,7 +307,6 @@ export default [
         </p>
 
         <p>
-            <i>Refreng</i><br>
             De sa du dansa på roser<br>
             De sa du aldri trår feil<br>
             Men det var en ting du savna<br>
@@ -315,7 +314,11 @@ export default [
             Stupe i havet<br>
             Var frihet for deg<br>
             Under vann for å skrike<br>
-            Så ingen kunne høre deg<br>
+            Så ingen kunne høre deg
+        </p>
+
+        <p>
+            <i>Refreng</i><br>
             De sa du dansa på roser<br>
             Trår feil<br>
             Du savna<br>
@@ -379,12 +382,13 @@ export default [
             High above me<br>
             She's so lovely<br>
             She's so high, like Cleopatra, Joan of Arc or Aphrodite<br>
-            'Cause she's so high<br>
+            Uh-oh-oh-oh<br>
+            She's so high<br>
             High above me<br>
-            She's so lovely<br>
-            She's so high, like Cleopatra, Joan of Arc or Aphrodite<br>
-            'Cause, she's so high<br>
-            High above me
+        </p>
+
+        <p>
+            <i>Mellomspill</i>
         </p>
 
         <p>
@@ -403,11 +407,14 @@ export default [
             She's so lovely<br>
             She's so high<br>
             Like Cleopatra, Joan of Arc, or Aphrodite<br>
+            Oh yeah<br>
             'Cause she's so high<br>
             High above me<br>
             She's so lovely<br>
-            She's so high, like Cleopatra, Joan of Arc or Aphrodite<br>
-            'Cause, she's so high<br>
+            She's so high<br>
+            Like Cleopatra, Joan of Arc or Aphrodite<br>
+            Oh yeah<br>
+            She's so high<br>
             High above me
         </p>
     `,
@@ -502,6 +509,14 @@ export default [
         </p>
 
         <p>
+            <i>Pre-chorus</i><br>
+            Typen din er vel på ferie<br>
+            Kanskje du har fått fri i kveld<br>
+            Mulig at dere har slått opp<br>
+            Så du sitter der for dæ sjæl
+        </p>
+
+        <p>
             <i>Refreng</i><br>
             For jeg er den du veit sier aldri nei<br>
             Jeg kommer alltid løpende til deg<br>
@@ -515,6 +530,14 @@ export default [
             Og åssen stå're det til med kjærligheta mi<br>
             Du sitter hjemme helt aleine<br>
             Og hvis jeg gidder kan jeg komme klokka ni
+        </p>
+
+        <p>
+            <i>Pre-chorus</i><br>
+            Typen din er vel på ferie<br>
+            Kanskje du har fått fri i kveld<br>
+            Mulig at dere har slått opp<br>
+            Så du sitter der for dæ sjæl
         </p>
 
         <p>
@@ -1066,7 +1089,7 @@ export default [
         art: 'shania-twain-youre-still-the-one.jpg',
         lyrics: `
             <p>
-                <i>Intro</i><br/>
+                <i>Intro - (Tale)</i><br/>
                 When I first saw you, I saw love<br/>
                 And the first time you touched me, I felt love<br/>
                 And after all this time<br/>
@@ -1310,99 +1333,99 @@ export default [
         year: 2013,
         art: 'katy-perry-roar.jpg',
         lyrics: `
-        <p><i>[Vers 1]</i><br>
-    I used to bite my tongue and hold my breath<br>
-    Scared to rock the boat and make a mess<br>
-    So I sat quietly, agreed politely<br>
-    I guess that I forgot I had a choice<br>
-    I let you push me past the breaking point<br>
-    I stood for nothing, so I fell for everything<br>
-</p>
+        <p><i>Vers 1</i><br>
+            I used to bite my tongue and hold my breath<br>
+            Scared to rock the boat and make a mess<br>
+            So I sat quietly, agreed politely<br>
+            I guess that I forgot I had a choice<br>
+            I let you push me past the breaking point<br>
+            I stood for nothing, so I fell for everything<br>
+        </p>
 
-<p><i>[Pre-Refreng]</i><br>
-    You held me down, but I got up (Hey)<br>
-    Already brushing off the dust<br>
-    You hear my voice, you hear that sound<br>
-    Like thunder, gonna shake the ground<br>
-    You held me down, but I got up (Hey)<br>
-    Get ready 'cause I've had enough<br>
-    I see it all, I see it now<br>
-</p>
+        <p><i>Pre-Refreng</i><br>
+            You held me down, but I got up (Hey)<br>
+            Already brushing off the dust<br>
+            You hear my voice, you hear that sound<br>
+            Like thunder, gonna shake the ground<br>
+            You held me down, but I got up (Hey)<br>
+            Get ready 'cause I've had enough<br>
+            I see it all, I see it now<br>
+        </p>
 
-<p><i>[Refreng]</i><br>
-    I got the eye of the tiger, a fighter<br>
-    Dancing through the fire<br>
-    'Cause I am a champion, and you're gonna hear me roar<br>
-    Louder, louder than a lion<br>
-    'Cause I am a champion, and you're gonna hear me roar<br>
-</p>
+        <p><i>Refreng</i><br>
+            I got the eye of the tiger, a fighter<br>
+            Dancing through the fire<br>
+            'Cause I am a champion, and you're gonna hear me roar<br>
+            Louder, louder than a lion<br>
+            'Cause I am a champion, and you're gonna hear me roar<br>
+        </p>
 
-<p><i>[Post-Refreng]</i><br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    You're gonna hear me roar<br>
-</p>
+        <p><i>Post-Refreng</i><br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            You're gonna hear me roar<br>
+        </p>
 
-<p><i>[Vers 2]</i><br>
-    Now I'm floating like a butterfly<br>
-    Stinging like a bee, I earned my stripes<br>
-    I went from zero, to my own hero<br>
-</p>
+        <p><i>Vers 2</i><br>
+            Now I'm floating like a butterfly<br>
+            Stinging like a bee, I earned my stripes<br>
+            I went from zero, to my own hero<br>
+        </p>
 
-<p><i>[Pre-Refreng]</i><br>
-    You held me down, but I got up (Hey)<br>
-    Already brushing off the dust<br>
-    You hear my voice, you hear that sound<br>
-    Like thunder, gonna shake the ground<br>
-    You held me down, but I got up (Got up)<br>
-    Get ready 'cause I've had enough<br>
-    I see it all, I see it now<br>
-</p>
+        <p><i>Pre-Refreng</i><br>
+            You held me down, but I got up (Hey)<br>
+            Already brushing off the dust<br>
+            You hear my voice, you hear that sound<br>
+            Like thunder, gonna shake the ground<br>
+            You held me down, but I got up (Got up)<br>
+            Get ready 'cause I've had enough<br>
+            I see it all, I see it now<br>
+        </p>
 
-<p><i>[Refreng]</i><br>
-    I got the eye of the tiger, a fighter<br>
-    Dancing through the fire<br>
-    'Cause I am a champion, and you're gonna hear me roar<br>
-    Louder, louder than a lion<br>
-    'Cause I am a champion, and you're gonna hear me roar<br>
-</p>
+        <p><i>Refreng</i><br>
+            I got the eye of the tiger, a fighter<br>
+            Dancing through the fire<br>
+            'Cause I am a champion, and you're gonna hear me roar<br>
+            Louder, louder than a lion<br>
+            'Cause I am a champion, and you're gonna hear me roar<br>
+        </p>
 
-<p><i>[Post-Refreng]</i><br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    You're gonna hear me roar<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    (You'll hear me roar)<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    You're gonna hear me roar<br>
-</p>
+        <p><i>Post-Refreng</i><br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            You're gonna hear me roar<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            (You'll hear me roar)<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            You're gonna hear me roar<br>
+        </p>
 
-<p><i>[Bro]</i><br>
-    Roar, roar, roar, roar, roar<br>
-</p>
+        <p><i>Bro</i><br>
+            Roar, roar, roar, roar, roar<br>
+        </p>
 
-<p><i>[Refreng]</i><br>
-    I got the eye of the tiger, a fighter<br>
-    Dancing through the fire<br>
-    'Cause I am a champion, and you're gonna hear me roar<br>
-    Oh, louder, louder than a lion<br>
-    'Cause I am a champion, and you're gonna hear me roar<br>
-</p>
+        <p><i>Refreng</i><br>
+            I got the eye of the tiger, a fighter<br>
+            Dancing through the fire<br>
+            'Cause I am a champion, and you're gonna hear me roar<br>
+            Oh, louder, louder than a lion<br>
+            'Cause I am a champion, and you're gonna hear me roar<br>
+        </p>
 
-<p><i>[Post-Refreng]</i><br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    You're gonna hear me roar<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    (You'll hear me roar)<br>
-    Oh-oh-oh-oh-oh-oh-oh<br>
-    You're gonna hear me roar<br>
-</p>
+        <p><i>Post-Refreng</i><br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            You're gonna hear me roar<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            (You'll hear me roar)<br>
+            Oh-oh-oh-oh-oh-oh-oh<br>
+            You're gonna hear me roar<br>
+        </p>
         `,
     },
     {
@@ -1494,7 +1517,7 @@ export default [
                 (Because I'm happy)<br>
                 Clap along if you know what happiness is to you<br>
                 (Because I'm happy)<br>
-                Clap along if you feel like that's what you wanna do (Come on)
+                Clap along if you feel like that's what you wanna do
             </p>
         `,
     },
@@ -1874,6 +1897,8 @@ export default [
                 Through the good times and the bad<br>
                 Yeah, I'll be standin' there by you<br></p>
 
+            <p><i>Solo</i></p>
+
             <p><i>Refreng</i><br>
                 And baby you're all that I want<br>
                 When you're lyin' here in my arms<br>
@@ -1979,11 +2004,12 @@ export default [
             Always wanting more, he'd leave you longing for</p>
 
         <p><i>Bridge</i><br>
-            Every word of every song that he sang was for you<br>
-            In a flash, he was gone, it happened so soon<br>
-            What could you do?</p>
+            Every word of every song that he sang was for you.<br>
+            In a flash he was gone, it happened so soon.<br>
+            What could you dooooooooooo?
+        </p>
 
-        <p><i>Guitar Solo</i></p>
+        <p><i>Gitar-Solo</i></p>
 
         <p><i>Refreng</i><br>
             Black velvet and that little boy's smile<br>
@@ -1996,9 +2022,7 @@ export default [
             Black velvet if you please</p>
 
         <p><i>Outro</i><br>
-            If you please<br>
-            If you please<br>
-            If you please</p>
+            Black velvet if you please</p>
         `,
     },
     {
@@ -2108,7 +2132,7 @@ export default [
             But no one knows, how deep it goes<br>
             And it seems like it's calling out to me, so come find me<br>
             And let me know<br>
-            What's beyond that line, will I cross that line?<br>
+            What's beyond that line, will I cross that line?<br><br>
             See the line where the sky meets the sea? It calls me<br>
             And no one knows, how far it goes<br>
             If the wind in my sail on the sea stays behind me<br>
