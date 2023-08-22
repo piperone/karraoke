@@ -11,11 +11,11 @@
             </q-item-section>
 
             <q-item-section>
-                <q-item-label class="text-amber-1">
+                <q-item-label>
                     <span v-html="song.title"></span>
                 </q-item-label>
 
-                <q-item-label caption class="text-amber-2">
+                <q-item-label caption>
                     <span v-html="song.artist"></span>
                 </q-item-label>
             </q-item-section>
@@ -35,7 +35,12 @@ export default {
     },
 
     created() {
-        this.songs = songs;
+        this.songs = songs.sort((song1, song2) => {
+            const str1 = song1.title.toUpperCase();
+            const str2 = song2.title.toUpperCase();
+
+            return str1 < str2 ? -1 : (str1 > str2 ? 1 : 0);
+        });
     },
 };
 </script>

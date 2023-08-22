@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
+    "@quasar/icongenie": "^3.1.1",
     "quasar": "^2.6.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0"

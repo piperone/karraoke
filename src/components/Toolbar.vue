@@ -15,14 +15,13 @@
             <q-toolbar-title>
                 <router-link to="/" class="no-underline">
                     <div class="single-line-height">
-                        <img src="logo/logo.png" style="height:23px" />
+                        <img src="logo/logo2.png" style="height:30px" />
                     </div>
                 </router-link>
             </q-toolbar-title>
 
             <div class="absolute-right q-pt-xs q-pr-md">
                 <q-btn flat
-                       color="amber-1"
                        round
                        unelevated
                        icon="menu"

@@ -1619,7 +1619,7 @@ export default [
     },
     {
         id: 20,
-        title: '...Baby One More Time',
+        title: 'Baby One More Time',
         artist: 'Britney Spears',
         album: '...Baby One More Time',
         year: 1999,
@@ -2263,6 +2263,476 @@ export default [
             (Hey, yeah, yeah, yeah) I don't wanna be (Hey, yeah, yeah, yeah)<br>
             (Hey, yeah, yeah, yeah) I don't wanna be (Hey, yeah, yeah, yeah)<br>
             (Hey, yeah, yeah, yeah) I don't wanna be</p>
+        `,
+    },
+    {
+        id: 30,
+        title: 'Ut mot havet',
+        artist: 'Rune Rudberg',
+        album: 'Landeplager',
+        year: 1988,
+        art: 'landeplager.jpg',
+        lyrics: `
+        <p><i>Intro</i><br>
+            Du lokker meg med et smil, skjelvende står du foran meg<br>
+            Glemmer bort all min tvil, nå vil jeg følge deg</p>
+
+        <p><i>Refreng</i><br>
+            Hei du var solen i ditt hår, og jeg vet hvor veien går<br>
+            Ut mot havet, der drømmer blir sanne, og vinden gir svar<br>
+            Hei, tenk så fint å ha det sånn, der vi vandrer hånd i hånd<br>
+            Ut mot havet, til stranden og varmer oss i sand</p>
+
+        <p><i>Vers</i><br>
+            I dine øyne kan jeg se et eneste svar, og alle spørsmål som jeg har<br>
+            Maria, Maria. Maria, Maria<br>
+            Ja jeg elsker deg og du er alt for meg</p>
+
+        <p><i>Refreng</i><br>
+            Hei du var solen i ditt hår, og jeg vet hvor veien går<br>
+            Ut mot havet, der drømmer blir sanne, og vinden gir svar<br>
+            Hei, tenk så fint å ha det sånn, der vi vandrer hånd i hånd<br>
+            Ut mot havet, til stranden og varmer oss i sand</p>
+
+        <p><i>Vers</i><br>
+            En sommer en sol et hav, bølgenes muntre lek mot strand<br>
+            Det er minner det blir no' av, gjemt i det salte vann<br>
+            Jeg ser et bilde av et ungt og lykkelig par, de gode minner som jeg har</p>
+
+        <p><i>Bro</i><br>
+            Maria, Maria. Maria, Maria<br>
+            Ja jeg elsker deg og du er alt for meg</p>
+
+        <p><i>Refreng</i><br>
+            Hei du var solen i ditt hår, og jeg vet hvor veien går<br>
+            Ut mot havet, der drømmer blir sanne, og vinden gir svar<br>
+            Hei, tenk så fint å ha det sånn, der vi vandrer hånd i hånd<br>
+            Ut mot havet, til stranden og varmer oss i sand</p>
+
+        <p><i>Refreng</i><br>
+            Hei du var solen i ditt hår, og jeg vet hvor veien går<br>
+            Ut mot havet, der drømmer blir sanne, og vinden gir svar<br>
+            Hei, tenk så fint å ha det sånn</p>`,
+    },
+    {
+        id: 31,
+        title: 'Granada',
+        artist: 'Vassendgutane',
+        album: 'Ungkar med Dobbelseng',
+        year: 2005,
+        art: 'ungkar_med_dobbelseng.jpg',
+        lyrics: `
+        <p><i>Vers</i><br>
+            Der stende to fine dame<br>
+            Å ser på kor ej børna<br>
+            Ej he røyklagt heile plasse<br>
+            Det e nummere før dei tørna<br>
+            Dei peika å dei sei<br>
+            Sjå ka wunderbaum han he<br>
+            Ska me fare å høyre om me fe være me</p>
+
+        <p><i>Refreng</i><br>
+            For ej kjøyre Granada<br>
+            Jada<br>
+            Ja det e kje nåke lada<br>
+            Det e en slike bil ja du må ha<br>
+            Me sota rute å sjalusi<br>
+            Å wunderbaum oppi speieli<br>
+            Då stende damene i kø å vil kome inni</p>
+
+        <p><i>Vers</i><br>
+            Det e kje problem å få fine dame inni<br>
+            Viss du kjøyre en Granada 2,8 GHIA i<br>
+            Me horelys oppi taket<br>
+            En cerwin vega sub i seteryggji bake<br>
+            Det dunka når ej fær forbi<br>
+            Ja ej spela country til damene inni</p>
+
+        <p><i>Refreng</i><br>
+            For ej kjøyre Granada<br>
+            Jada<br>
+            Ja det e kje nåke lada<br>
+            Det e en slike bil ja du må ha<br>
+            Me sota rute å sjalusi<br>
+            Å wunderbaum oppi speieli<br>
+            Då stende damene i kø å vil kome inni</p>
+
+        <p><i>Vers</i><br>
+            Ej he sett inn en 3 liters ca pri motor<br>
+            Akse den vart bra å farta stor<br>
+            Å kjøme der en me en BMW<br>
+            So smile ej å legge gassen ned</p>
+
+        <p><i>Refreng</i><br>
+            For ej kjøyre Granada<br>
+            Jada<br>
+            Ja det e kje nåke lada<br>
+            Det e en slik bil ja du må ha<br>
+            Me sota rute å sjalusi<br>
+            Å wunderbaum oppi speieli<br>
+            Då stende damene i kø å vil kome inni<br>
+            Då stende damene i kø, damene i kø<br>
+            Då stende damene i kø å vil kome inni</p>
+        `,
+    },
+    {
+        id: 32,
+        title: 'Wonderwall',
+        artist: 'Oasis',
+        album: '(What\'s The Story) Morning Glory?',
+        year: 1995,
+        art: 'morning_glory.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+        Today is gonna be the day that they're gonna throw it back to you<br>
+        And by now, you shoulda somehow realised what you gotta do<br>
+        I don't believe that anybody feels the way I do about you now</p>
+
+        <p><i>Vers 2</i><br>
+        And backbeat, the word is on the street that the fire in your heart is out<br>
+        I'm sure you've heard it all before, but you never really had a doubt<br>
+        I don't believe that anybody feels the way I do about you now</p>
+
+        <p><i>Pre-Chorus</i><br>
+        And all the roads we have to walk are winding<br>
+        And all the lights that lead us there are blinding<br>
+        There are many things that I would like to say to you, but I don't know how</p>
+
+        <p><i>Refreng</i><br>
+        Because maybe<br>
+        You're gonna be the one that saves me<br>
+        And after all<br>
+        You're my wonderwall</p>
+
+        <p><i>Vers 3</i><br>
+        Today was gonna be the day, but they'll never throw it back to you<br>
+        And by now, you shoulda somehow realised what you're not to do<br>
+        I don't believe that anybody feels the way I do about you now</p>
+
+        <p><i>Pre-Chorus</i><br>
+        And all the roads that lead you there were winding<br>
+        And all the lights that light the way are blinding<br>
+        There are many things that I would like to say to you, but I don't know how</p>
+
+        <p><i>Refreng</i><br>
+        I said maybe<br>
+        You're gonna be the one that saves me<br>
+        And after all<br>
+        You're my wonderwall<br>
+        I said maybe (I said maybe)<br>
+        You're gonna be the one that saves me<br>
+        And after all<br>
+        You're my wonderwall</p>
+
+        <p><i>Outro</i><br>
+        I said maybe (I said maybe)<br>
+        You're gonna be the one that saves me (That saves me)<br>
+        You're gonna be the one that saves me (That saves me)<br>
+        You're gonna be the one that saves me (That saves me)</p>
+        `,
+    },
+    {
+        id: 33,
+        title: 'Sweet Home Alabama',
+        artist: 'Lynyrd Skynyrd',
+        album: 'Second Helping',
+        year: 1973,
+        art: 'second_helping.jpg',
+        lyrics: `
+        <p><i>Intro</i><br>
+        One, two, three<br>
+        Turn it up</p>
+
+        <p><i>Verse 1</i><br>
+        Big wheels keep on turnin'<br>
+        Carry me home to see my kin<br>
+        Singin' songs about the southland<br>
+        I miss Alabamy once again<br>
+        And I think it's a sin, yes</p>
+
+        <p><i>Verse 2</i><br>
+        Well, I heard Mr. Young sing about her (Southern man)<br>
+        Well, I heard ol' Neil put her down<br>
+        Well, I hope Neil Young will remember<br>
+        A Southern man don't need him around, anyhow</p>
+
+        <p><i>Chorus</i><br>
+        Sweet home Alabama<br>
+        Where the skies are so blue<br>
+        Sweet home Alabama<br>
+        Lord, I'm coming home to you</p>
+
+        <p><i>Verse 3</i><br>
+        In Birmingham they love the governor<br>
+        Boo! Boo! Boo!<br>
+        Now we all did what we could do<br>
+        Now Watergate does not bother me<br>
+        Does your conscience bother you?<br>
+        Tell the truth</p>
+
+        <p><i>Chorus</i><br>
+        Sweet home Alabama<br>
+        Where the skies are so blue<br>
+        Sweet home Alabama<br>
+        Lord, I'm coming home to you<br>
+        Here I come, Alabama</p>
+
+        <p><i>Guitar Solo</i></p>
+
+        <p><i>Bridge</i><br>
+        Ah-ah-ah, Alabama<br>
+        Ah-ah-ah, Alabama<br>
+        Ah-ah-ah, Alabama<br>
+        Ah-ah-ah, Alabama</p>
+
+        <p><i>Verse 4</i><br>
+        Now Muscle Shoals has got the Swampers<br>
+        And they've been known to pick a song or two (Yes, they do)<br>
+        Lord, they get me off so much<br>
+        They pick me up when I'm feeling blue<br>
+        Well now, how 'bout you?</p>
+
+        <p><i>Chorus</i><br>
+        Sweet home Alabama<br>
+        Where the skies are so blue<br>
+        Sweet home Alabama<br>
+        Lord, I'm coming home to you<br>
+        Sweet home Alabama (Oh, sweet home, baby)<br>
+        Where the skies are so blue (And the governor's true)<br>
+        Sweet home Alabama (Lordy)<br>
+        Lord, I'm coming home to you (Yeah, yeah)</p>
+
+        <p><i>Outro</i><br>
+        Mont… Montgomery's got the answer</p>
+        `,
+    },
+    {
+        id: 34,
+        title: 'Optimist',
+        artist: 'Jahn Teigen',
+        album: 'Litt av Historien',
+        year: 1995,
+        art: 'litt_av_historien.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+            Jeg står i mørke og skimter lyset i det fjerne<br>
+            Det er så kaldt - jeg søker varme fra en stjerne<br>
+            Jeg tenker opp når jeg er nede for jeg er en optimist</p>
+
+        <p><i>Vers 2</i><br>
+            Jeg har et håp hver gang jeg går omkring i blinde<br>
+            Det finnes en sol i oss som snart skal begynne å skinne<br>
+            Som får meg opp når jeg er nede om og om og om igjen</p>
+
+        <p><i>Vers 3</i><br>
+            Jeg har en drøm at vi tar vare på hverandre<br>
+            Og gir det beste i oss selv til alle andre<br>
+            Jeg tenker opp når jeg er nede om og om og om igjen</p>
+
+        <p><i>Refreng</i><br>
+            Optimist, jeg vet det går bra til sist<br>
+            Så lenge jeg lever her er jeg en optimist<br>
+            Jeg er en optimist</p>
+
+        <p><i>Vers 4</i><br>
+            Jeg har en tro, jeg har ett mål som jeg skal finne<br>
+            Jeg har en kraft og det er viljen til å vinne<br>
+            Det får meg opp når jeg er nede om og om og om igjen</p>
+
+        <p><i>Bro</i><br>
+            Vil at livet blir en dans i lyset<br>
+            En dans for håpet og en dans for gleden<br>
+            En dans i frihet og en dans for freden<br>
+            Det skal gå</p>
+
+        <p><i>Refreng</i><br>
+            Optimist, jeg vet det går bra til sist<br>
+            Så lenge jeg lever her er jeg en optimist<br>
+            Optimist, jeg vet det går bra til sist<br>
+            Så lenge jeg lever her er jeg en optimist<br>
+            Optimist, jeg vet det går bra til sist<br>
+            Så lenge jeg lever her er jeg en optimist<br>
+            Jeg er en optimist</p>
+        `,
+    },
+    {
+        id: 35,
+        title: 'Can\'t Stop the Feeling!',
+        artist: 'Justin Timberlake',
+        album: 'Can\'t Stop the Feeling!',
+        year: 2016,
+        art: 'cant_stop_the_feeling.jpg',
+        lyrics: `
+        <p><i>Verse 1</i><br>
+        I got this feelin' inside my bones<br>
+        It goes electric, wavey when I turn it on<br>
+        All through my city, all through my home<br>
+        We're flyin' up, no ceilin', when we in our zone</p>
+
+        <p><i>Refrain</i><br>
+        I got that sunshine in my pocket, got that good soul in my feet<br>
+        I feel that hot blood in my body when it drops (Ooh)<br>
+        I can't take my eyes up off it, movin' so phenomenally<br>
+        Room on lock, the way we rock it, so don't stop</p>
+
+        <p><i>Pre-Chorus</i><br>
+        And under the lights when everything goes<br>
+        Nowhere to hide when I'm gettin' you close<br>
+        When we move, well, you already know<br>
+        So just imagine (Just imagine, just imagine)</p>
+
+        <p><i>Chorus</i><br>
+        Nothin' I can see but you<br>
+        When you dance, dance, dance<br>
+        A feelin' good, good, creepin' up on you<br>
+        So just dance, dance, dance, come on<br>
+        All those things I shouldn't do<br>
+        But you dance, dance, dance<br>
+        And ain't nobody leavin' soon, so keep dancin'</p>
+
+        <p><i>Post-Chorus</i><br>
+        I can't stop the feelin'<br>
+        So just dance, dance, dance<br>
+        I can't stop the feelin'<br>
+        So just dance, dance, dance, come on</p>
+
+        <p><i>Verse 2</i><br>
+        Ooh, it's somethin' magical<br>
+        It's in the air, it's in my blood, it's rushin' on (Rushin' on)<br>
+        I don't need no reason, don't need control (Need control)<br>
+        I fly so high, no ceilin', when I'm in my zone</p>
+
+        <p><i>Refrain</i><br>
+        'Cause I got that sunshine in my pocket, got that good soul in my feet<br>
+        I feel that hot blood in my body when it drops (Ooh)<br>
+        I can't take my eyes up off it, movin' so phenomenally<br>
+        Room on lock, the way we rock it, so don't stop</p>
+
+        <p><i>Pre-Chorus</i><br>
+        And under the lights when everything goes<br>
+        Nowhere to hide when I'm gettin' you close<br>
+        When we move, well, you already know<br>
+        So just imagine (Just imagine, just imagine)</p>
+
+        <p><i>Chorus</i><br>
+        Nothin' I can see but you<br>
+        When you dance, dance, dance<br>
+        A feelin' good, good, creepin' up on you<br>
+        So just dance, dance, dance, come on<br>
+        All those things I shouldn't do<br>
+        But you dance, dance, dance (No, no, no)<br>
+        And ain't nobody leavin' soon, so keep dancin'</p>
+
+        <p><i>Post-Chorus</i><br>
+        I can't stop the feelin'<br>
+        So just dance, dance, dance<br>
+        I can't stop the feelin'<br>
+        So just dance, dance, dance, come on<br>
+        I can't stop the feelin' (Woo)<br>
+        So just dance, dance, dance<br>
+        I can't stop the feelin' (Yeah)<br>
+        So keep dancin', come on</p>
+
+        <p><i>Bridge</i><br>
+        Oh<br>
+        Yeah, oh<br>
+        I can't stop the<br>
+        I can't stop the<br>
+        I can't stop the, I can't stop the</p>
+
+        <p><i>Chorus</i><br>
+        (I can't stop the feelin')<br>
+        Nothin' I can see but you<br>
+        When you dance, dance, dance<br>
+        (I can't stop the feelin')<br>
+        A feelin' good, good, creepin' up on you<br>
+        So just dance, dance, dance, come on (Oh)<br>
+        (I can't stop the feelin')<br>
+        All those things I shouldn't do<br>
+        But you dance, dance, dance (Dance, dance, dance)<br>
+        (I can't stop the feelin')<br>
+        And ain't nobody leavin' soon, so keep dancin'<br>
+        (I can't stop the feelin')</p>
+
+        <p><i>Outro</i><br>
+        Everybody sing<br>
+        Got this feelin' in my body<br>
+        (I can't stop the feelin')<br>
+        Got this feelin' in my body (Oh, no)<br>
+        (I can't stop the feelin')<br>
+        Wanna see you move your body (No, no, no)<br>
+        (I can't stop the feelin')<br>
+        Got this feelin' in my body, come on<br>
+        Break it down<br>
+        Got this feelin' in my body (Uh)<br>
+        I can't stop the feelin'<br>
+        Got this feeling in my body, come on (Ooh)</p>
+        `,
+    },
+    {
+        id: 36,
+        title: 'Ei Krasafaren Steinbu',
+        artist: 'Hellbillies',
+        album: 'Cooltur',
+        year: 2002,
+        art: 'cooltur.jpg',
+        lyrics: `
+        <p><i>Vers 1</i><br>
+        Eg skull' te fjells for å jakte rein<br>
+        Bussen va ganske sein, eg skulde gå te Hein<br>
+        Været va ruskut og tungt og grått<br>
+        Lendet va sleipt og vått<br>
+        Sjøl vart eg redd so smått<br>
+        Hadde hverken kart ell' kompass<br>
+        Burde jaddi hugst på sopass<br>
+        Jævlig dumt syns væl du?</p>
+
+        <p><i>Vers 2</i><br>
+        Måse og stein dæ va allt eg såg<br>
+        Skodda kom sigande tjukk, so tung og grå<br>
+        Jeger'n va liten og Vidda stor<br>
+        Hadde 'kji leger ror<br>
+        Trengde ein storebror<br>
+        Eg tok te miste true<br>
+        På at eg skull' finne bue<br>
+        Klukka gikk, huttetu<br>
+        Va snart sju</p>
+
+        <p><i>Refreng</i><br>
+        Men då kom eg te ei krasafaren steinbu<br>
+        Eine veggen sigji ut, men taket nokolein<br>
+        Sette meg og fann fram nista<br>
+        Våt og kald so kroppen rista<br>
+        Likevæl va eg glad</p>
+
+        <p><i>Vers 3</i><br>
+        Åfto e livet som ein skoddeheim<br>
+        Vegen e langtfrå bein<br>
+        Eg kan'kji finne heim<br>
+        Rota på rundt i eit narrespel<br>
+        Kjempa imot eit bel<br>
+        Lyg meg ifrå eindel<br>
+        Når det e som aller svartast<br>
+        Når det bles med krappe vindkast<br>
+        Når eg går mot eit stup<br>
+        Ni eit djup</p>
+
+        <p><i>Refreng</i><br>
+        Då kjem eg te ei krasafaren steinbu<br>
+        Eine veggen sigji ut, men taket nokolein<br>
+        Set meg ned og finn fram nista<br>
+        Våt og kald so kroppen rista<br>
+        Likevæl e eg glad<br>
+        Eg e glad</p>
+
+        <p><i>Refreng</i><br>
+        Då kjem eg te ei krasafaren steinbu<br>
+        Eine veggen sigji ut, men taket nokolein<br>
+        Set meg ned og finn fram nista<br>
+        Våt og kald so kroppen rista<br>
+        Likevæl e eg glad<br>
+        Ja, likevæl e eg glad<br>
+        Ja, likevæl e eg glad</p>
         `,
     },
 ];

@@ -7,14 +7,14 @@
             <div class="col-6 q-pt-xl">
                 Ola Wist Holmen<br>
                 <small class="text-grey-6">
-                    Primus motor
+                    Primus motor &amp; Keyboard
                 </small>
             </div>
 
             <div class="col-6 text-right q-pt-xl">
                 Thomas Anfinnes<br>
                 <small class="text-grey-6">
-                    Tynnstræng-klimprer
+                    Gitar
                 </small>
             </div>
             <div class="col-6">
@@ -27,14 +27,14 @@
             <div class="col-6 q-pt-xl">
                 Odin Bratli<br>
                 <small class="text-grey-6">
-                    Skinn-slager
+                    Trommer
                 </small>
             </div>
 
             <div class="col-6 text-right q-pt-xl">
                 Fredrik Krokstad<br>
                 <small class="text-grey-6">
-                    Tjokkstræng-klimprer
+                    Bass
                 </small>
             </div>
             <div class="col-6">

@@ -9,17 +9,17 @@
         <div class="column fit">
             <div class="relative-position row justify-center items-center q-py-md"
                  style="line-height: 1">
-                <div class="q-py-md">
+                <div class="q-py-none">
                     <img src="logo/logo.png"
                          alt="Logo"
-                         style="height:25px">
+                         style="height:165px">
                 </div>
 
                 <q-btn @click="$emit('close-drawer')"
                        flat
                        square
                        class="absolute-right"
-                       color="amber-2"
+                       color="grey-4"
                        icon="close" />
             </div>
 
@@ -27,7 +27,7 @@
                 <q-separator />
 
                 <q-item clickable
-                        class="q-py-lg text-amber-2"
+                        class="q-py-lg text-white"
                         to="/">
                     <q-item-section avatar>
                         <q-icon name="library_music" />
@@ -44,7 +44,7 @@
                 </q-item>
 
                 <q-item clickable
-                        class="q-py-lg text-amber-2"
+                        class="q-py-lg text-white"
                         to="/gutta">
                     <q-item-section avatar>
                         <q-icon name="groups" />
@@ -61,7 +61,7 @@
                 </q-item>
 
                 <q-item clickable
-                        class="q-py-lg text-amber-2"
+                        class="q-py-lg text-white"
                         href="mailto:ola@reelnote.no?subject=Karraokes booking">
                     <q-item-section avatar>
                         <q-icon name="event" />
@@ -81,9 +81,8 @@
             </q-list>
         </div>
 
-        <small class="absolute-bottom q-pa-md text-grey-5 text-center">
-            <a href="mailto:fredrkr@me.com"
-               class="text-amber-2">av Fredrik</a>
+        <small class="absolute-bottom q-pa-md text-center">
+            <a href="mailto:fredrkr@me.com" class="text-white">av Fredrik</a>
         </small>
     </q-drawer>
 </template>
