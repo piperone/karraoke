@@ -1,6 +1,6 @@
 <template>
     <q-layout view="lHh Lpr lFf">
-        <Toolbar @open-drawer="drawerOpen = true" />
+        <Toolbar @toggle-drawer="drawerOpen = !drawerOpen" />
 
         <Drawer @close-drawer="drawerOpen = false"
                 :state="drawerOpen" />
@@ -9,9 +9,7 @@
             <router-view v-slot="{ Component }">
                 <div class="row justify-center">
                     <div class="col col-sm-auto">
-                        <Fade>
-                            <component :is="Component" />
-                        </Fade>
+                        <component :is="Component" />
                     </div>
                 </div>
             </router-view>
@@ -26,7 +24,7 @@ import Drawer from 'components/Drawer.vue';
 
 export default {
     name: 'MainLayout',
-    components: { Toolbar, Drawer, Fade },
+    components: { Toolbar, Drawer },
     data() {
         return {
             drawerOpen: false,

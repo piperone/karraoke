@@ -21,11 +21,15 @@
             </q-toolbar-title>
 
             <div class="absolute-right q-pt-xs q-pr-md">
+                <q-btn round
+                       @click="changeStyle"
+                       icon="palette" />
+
                 <q-btn flat
                        round
                        unelevated
                        icon="menu"
-                       @click="$emit('open-drawer')" />
+                       @click="$emit('toggle-drawer')" />
             </div>
         </q-toolbar>
     </q-header>
@@ -37,5 +41,23 @@ import Fade from 'components/transitions/Fade.vue';
 export default {
     name: 'Toolbar',
     components: { Fade },
+    data() {
+        return {
+            currentStyle: 0,
+            bodyClasses: ['default', 'white-on-black', 'black-on-white'],
+        };
+    },
+
+    methods: {
+        changeStyle() {
+            const body = document.querySelector('body');
+
+            body.classList.remove(this.bodyClasses[this.currentStyle]);
+
+            this.currentStyle = this.currentStyle === 2 ? 0 : this.currentStyle + 1;
+
+            body.classList.add(this.bodyClasses[this.currentStyle]);
+        },
+    },
 };
 </script>

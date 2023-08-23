@@ -4,6 +4,7 @@
                 :to="`song/${song.id}`"
                 :key="`song-${song.id}`"
                 class="q-py-md"
+                style="min-height:75px"
                 clickable
                 v-ripple>
             <q-item-section avatar>

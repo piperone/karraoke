@@ -4,7 +4,8 @@ body.body--dark
     font-family: 'Raleway', sans-serif
     font-weight: 600
     font-size: 15px
-    background: #414143
+    transition: background .3s ease-in-out
+    background: #590e0e
     color: #efefef
 
     .q-layout__shadow
@@ -20,4 +21,20 @@ body.body--dark
 .single-line-height
     line-height: 1 !important
 
+body.body--dark
+    &.white-on-black
+        color: #fff
+        background: #000
 
+    &.black-on-white
+        color: #000 !important
+        background: #fff
+
+        .q-item--dark
+            color: #000
+
+            .q-item__label--caption
+                color: rgba(0, 0, 0, .8) !important
+
+    .q-list--dark.q-list--separator > .q-item-type + .q-item-type
+        border-top-color: rgba(0, 0, 0, 0.12)

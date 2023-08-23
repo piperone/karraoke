@@ -1481,10 +1481,6 @@ export default [
                 Bring me down<br>
                 Can't nothing bring me down<br>
                 My level's too high to bring me down<br>
-                Can't nothing bring me down, I said<br>
-                Bring me down<br>
-                Can't nothing bring me down<br>
-                My level's too high to bring me down<br>
                 Can't nothing bring me down, I said
             </p>
 

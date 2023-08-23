@@ -1,6 +1,6 @@
 <template>
     <q-drawer v-model="drawerState"
-              style="background:#2C1E2B"
+              style="background:#440808"
               overlay
               bordered
               side="right"
@@ -81,9 +81,9 @@
             </q-list>
         </div>
 
-        <small class="absolute-bottom q-pa-md text-center">
+        <small class="absolute-bottom q-pa-md text-center"><small>
             <a href="mailto:fredrkr@me.com" class="text-white">av Fredrik</a>
-        </small>
+        </small></small>
     </q-drawer>
 </template>
 
